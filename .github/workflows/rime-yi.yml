@@ -25,7 +25,7 @@ jobs:
            
       - name: merge dict
         run: |
-          cat rime-yi/yi_rime_header.yaml yi_table.txt > rime-yi/yi.dict.yaml
+          cat rime-yi/yi_dict_header.yaml yi_table.txt > rime-yi/yi.dict.yaml
 
       - name: merge opencc
         run: |
