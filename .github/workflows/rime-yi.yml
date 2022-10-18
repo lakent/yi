@@ -1,0 +1,42 @@
+name: rime yi ci
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+  
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Clone rime-yi
+        run: |
+          git clone https://${{ github.actor }}:${{ secrets.GH_PAT }}@github.com/lakent/rime-yi
+           
+      - name: merge dict
+        run: |
+          cat rime-yi/yi_rime_header.yaml yi_table.txt > rime-yi/yi.dict.yaml
+
+      - name: merge opencc
+        run: |
+          join yi_table.txt yi_spelling.txt  | awk '{print $1"\t"$2"·"$4}' > opencc/yi_spelling.txt
+        
+      - name: Push to rime-yi
+        run: |
+          cd rime-yi
+          git config user.name  ${{ secrets.GITUSERNAME }}
+          git config user.email ${{ secrets.GITUSEREMAIL }}
+          git add yi.dict.yaml
+          git add opencc/yi_spelling
+          git commit -m "update rime yi"
+          git push
