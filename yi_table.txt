@@ -1580,7 +1580,7 @@
 疼	lnr	lnrrrr
 耶	yyu	yyuiii
 惧	hbo	hborrr
-姊	mxoui	mxouio
+姊	mxou	mxouio
 召	ski	skiuee
 饮	pao	paouor
 悉	mlr	mlrurr
@@ -3865,7 +3865,7 @@
 骋	aaeu	aaeuuu
 隽	mwuo	mwuooo
 曜	wyo	wyoire
-婊	mxou	mxouor
+婊	mxouo	mxouor
 铛	vcue	vcueee
 掂	gaie	gaieiu
 崆	ydeiee	ydeiee
