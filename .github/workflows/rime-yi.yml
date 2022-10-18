@@ -37,6 +37,6 @@ jobs:
           git config user.name  ${{ secrets.GITUSERNAME }}
           git config user.email ${{ secrets.GITUSEREMAIL }}
           git add yi.dict.yaml
-          git add opencc/yi_spelling
+          git add opencc/yi_spelling.txt
           git commit -m "update rime yi"
           git push
