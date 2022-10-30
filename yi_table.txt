@@ -983,7 +983,7 @@
 喊	kkei	kkeiue
 峰	yn	yneeei
 灯	pae	paeiii
-绿	xci	xciuor
+绿	xci	xcireo
 夏	db	dbourr
 塔	lfor	lforei
 桌	lwe	lweior
@@ -1258,7 +1258,7 @@
 乌	ktee	kteeee
 碎	dbo	dboror
 搞	ggi	ggiuee
-录	cni	cniuor
+录	cni	cnireo
 赞	ggiu	ggiuor
 迅	ppr	pprurr
 佩	jae	jaeiui
@@ -2606,7 +2606,7 @@
 蒸	fcu	fcuore
 诈	szo	szoeie
 杏	tkiu	tkiuee
-碌	dci	dciuor
+碌	dci	dcireo
 殖	bhei	bheiiu
 嵌	ydou	ydouor
 捡	gqr	gqrroe
@@ -3447,7 +3447,7 @@
 袄	hfoe	hfoeor
 亢	baou	baouuu
 惋	hvou	hvouru
-氯	vciuo	vciuor
+氯	vcir	vcireo
 匡	vsee	vseeie
 糙	qjru	qjrurr
 屿	yqe	yqeeee
@@ -4986,7 +4986,7 @@
 掼	gviu	gviuor
 囵	kaor	kaorou
 芪	fmou	fmoueu
-箓	lciuo	lciuor
+箓	lcir	lcireo
 牖	kteiue	kteiue
 濛	nweeo	nweeou
 澧	naeiu	naeiue
@@ -5344,7 +5344,7 @@
 垓	lhreu	lhreuo
 蚋	bliu	bliuor
 爻	hhorr	hhorrr
-渌	nciuo	nciuor
+渌	ncir	ncireo
 槭	tkie	tkieei
 阃	fkeior	fkeior
 酢	tzoei	tzoeie
@@ -6292,7 +6292,7 @@
 觏	pseie	pseiei
 襕	hfeiue	hfeiue
 袪	hweieu	hweieu
-菉	fciuo	fciuor
+菉	fcire	fcireo
 芾	fjiui	fjiuii
 胂	hwii	hwiiii
 耜	dhiueu	dhiueu
@@ -6921,7 +6921,7 @@
 璆	syoro	syoroo
 瑢	sdor	sdoriu
 琯	sviu	sviueu
-琭	sciuor	sciuor
+琭	scir	scireo
 琤	sbouu	sbouue
 獯	pniu	pniuro
 猰	pxuo	pxuoeo
@@ -7961,7 +7961,7 @@
 𫘬	ayuu	ayuure
 𫘪	aao	aaoiue
 𫘨	asiuee	asiuee
-𫘧	aciuo	aciuor
+𫘧	acir	acireo
 𫘦	akoe	akoeei
 𫘝	avor	avorrr
 𫘜	anreo	anreor
