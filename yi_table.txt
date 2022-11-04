@@ -3733,7 +3733,7 @@
 麾	ywoee	ywoeeu
 嗟	kkeie	kkeiee
 喋	kdue	kdueio
-臻	gleio	gleior
+臻	glo	gloeio
 殡	bvoie	bvoiei
 栩	tyur	tyureu
 幌	ywir	ywiroe
@@ -4291,7 +4291,7 @@
 蠹	bdiu	bdiuei
 藜	fco	fcouuu
 湮	nteie	nteiee
-榛	tleio	tleior
+榛	tloe	tloeio
 娆	mpeu	mpeuoe
 锹	vcr	vcroor
 覃	tweii	tweiii
@@ -4765,7 +4765,7 @@
 幂	qwe	qweorr
 饽	pbui	pbuiee
 邈	ddou	ddouru
-螓	bleio	bleior
+螓	bloe	bloeio
 夔	ajie	ajieie
 闳	fdur	fdurrr
 镭	vpi	vpiuei
@@ -5054,7 +5054,7 @@
 薮	fquo	fquoeo
 艄	pciuee	pciuee
 廪	abiu	abiuiu
-蓁	fleio	fleior
+蓁	floei	floeio
 缱	xliueu	xliueu
 篁	ldeei	ldeeie
 桉	tvuo	tvuoee
@@ -5261,7 +5261,7 @@
 馗	gaoi	gaoiue
 钴	vve	vveiiu
 菏	ygeiu	ygeiue
-嗪	kleio	kleior
+嗪	kloe	kloeio
 遴	qbeu	qbeuir
 诂	svei	sveiiu
 竦	hzeiu	hzeiue
@@ -6792,7 +6792,7 @@
 甏	aweu	aweuur
 珧	sxr	sxreor
 濩	nfoir	nfoire
-溱	nlei	nleior
+溱	nloe	nloeio
 淏	nweeor	nweeor
 洸	nhir	nhiroe
 洑	njeor	njeorr
@@ -8069,7 +8069,7 @@
 癿	dpuu	dpuuuu
 璱	ssee	sseeie
 璮	sbiui	sbiuiu
-瑧	sleio	sleior
+瑧	sloe	sloeio
 瑓	szrr	szrrrr
 琈	syuie	syuiee
 珢	shue	shueeu
