@@ -3554,7 +3554,7 @@
 镀	vdu	vdurrr
 礁	dmr	dmrrrr
 卤	thorrr	thorrr
-箍	lge	lgeuiu
+箍	lge	lgeiui
 槟	tvo	tvoiei
 羹	knro	knroee
 讷	sliuo	sliuor
