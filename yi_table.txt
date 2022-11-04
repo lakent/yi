@@ -5065,7 +5065,7 @@
 逋	frr	frrurr
 蒯	fhou	fhouee
 鹜	hnou	hnouru
-颢	wle	wleoiu
+颢	wleo	wleoiu
 颛	ypeoi	ypeoiu
 锷	vheeu	vheeuu
 钯	vgu	vguieu
@@ -5768,7 +5768,7 @@
 鲧	dju	djuuri
 髌	mvoie	mvoiei
 骀	aciu	aciuee
-颙	wleo	wleoiu
+颙	wleoi	wleoiu
 鞫	qkre	qkreee
 菹	ybiuee	ybiuee
 苡	fbur	fburor
