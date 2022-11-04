@@ -744,7 +744,7 @@
 余	qt	qteior
 秋	cpr	cproor
 顺	wneo	wneoiu
-顾	ag	ageooo
+顾	ag	ageoiu
 否	hki	hkiuee
 值	jhe	jheiiu
 考	fqe	fqeuuu
