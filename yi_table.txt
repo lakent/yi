@@ -1580,7 +1580,7 @@
 疼	lnr	lnrrrr
 耶	yyu	yyuiii
 惧	hbo	hborrr
-姊	mxou	mxouio
+姊	mxo	mxouio
 召	ski	skiuee
 饮	pao	paouor
 悉	mlr	mlrurr
@@ -1865,7 +1865,7 @@
 割	vxiu	vxiuei
 腹	hviu	hviuee
 驱	ame	ameoru
-奏	lfee	lfeeor
+奏	lfe	lfeeor
 甫	feiu	feiuee
 植	theii	theiiu
 诱	scu	scuooo
@@ -2242,7 +2242,7 @@
 逗	hrrur	hrrurr
 糕	qkr	qkrrrr
 畅	wjuo	wjuooo
-趋	mxo	mxouue
+趋	mxou	mxouue
 朴	tli	tlirrr
 泼	nxu	nxuour
 账	dboe	dboeur
@@ -2361,7 +2361,7 @@
 匪	vzi	vzieee
 桐	tsei	tseiue
 剥	cnii	cniiii
-堵	lfe	lfeieo
+堵	lfei	lfeieo
 俞	qhii	qhiiii
 棵	twei	tweior
 贱	dkee	dkeeuo
@@ -3191,7 +3191,7 @@
 嬉	mai	maiuee
 茗	fbiu	fbiuee
 驿	afee	afeeii
-帧	yliuo	yliuor
+帧	yliu	yliuor
 瀑	nweii	nweiie
 窑	dyoe	dyoeei
 偎	jgeuo	jgeuor
@@ -3589,7 +3589,7 @@
 乒	qjo	qjoooo
 涎	njie	njieie
 沅	nlee	nleeou
-埔	lfei	lfeiue
+埔	lfeiu	lfeiue
 噎	kbeiu	kbeiue
 烯	pheo	pheoiu
 榕	tdor	tdoriu
@@ -5240,7 +5240,7 @@
 痼	lkeii	lkeiiu
 痍	lkueu	lkueuu
 疥	ldoi	ldoiii
-聩	yliuor	yliuor
+聩	yliuo	yliuor
 焘	xjrr	xjrrrr
 滁	nyore	nyoree
 沆	nbouu	nbouuu
@@ -5346,7 +5346,7 @@
 爻	hhorr	hhorrr
 渌	ncir	ncireo
 槭	tkie	tkieei
-阃	fkeior	fkeior
+阃	fkeio	fkeior
 酢	tzoei	tzoeie
 薹	fnru	fnrueu
 芘	fmeu	fmeuou
@@ -6138,7 +6138,7 @@
 埴	lheii	lheiiu
 嗞	kauur	kauuru
 冇	dsiuu	dsiuuu
-鹾	lkor	lkorro
+鹾	lko	lkorro
 鹁	bsou	bsouru
 隹	moi	moiree
 闿	fyue	fyueuu
@@ -6454,8 +6454,8 @@
 趼	zneeo	zneeoi
 貘	dyeii	dyeiii
 诼	shrrr	shrrrr
-蚵	baiue	baiuee
-蚰	baiu	baiuei
+蚵	baiu	baiuee
+蚰	baiue	baiuei
 薷	fpeoi	fpeoiu
 蒗	yjue	yjueeu
 苘	fsiuee	fsiuee
@@ -6863,7 +6863,7 @@
 澥	nhuo	nhuooe
 潟	ntour	ntourr
 滪	nheoiu	nheoiu
-滆	nleiu	nleiue
+滆	nlei	nleiue
 溞	nfri	nfriue
 浈	nliuo	nliuor
 泶	nniuo	nniuor
@@ -7147,7 +7147,7 @@
 窎	dfouru	dfouru
 稌	cqe	cqeior
 禔	hwiue	hwiuee
-祕	hloo	hloooo
+祕	hlo	hloooo
 祏	hdeo	hdeoiu
 磉	dfur	dfurur
 砹	dfor	dforrr
@@ -7527,7 +7527,7 @@
 俬	jcur	jcurrr
 俙	jheoi	jheoiu
 俍	jjue	jjueeu
-佖	jloo	jloooo
+佖	jlo	jloooo
 伾	jheee	jheeee
 伭	jbuu	jbuurr
 丏	ktuu	ktuuuu
@@ -7649,7 +7649,7 @@
 瑆	swoe	swoeei
 瑅	ssiuee	ssiuee
 瑃	sliue	sliuee
-瑂	sziue	sziuee
+瑂	sziu	sziuee
 琡	slio	slioru
 琟	smoir	smoire
 琔	sprr	sprrue
@@ -7659,7 +7659,7 @@
 珹	skuu	skuuuu
 珸	sjiue	sjiuee
 珵	skeeie	skeeie
-珦	sziu	sziuee
+珦	sziue	sziuee
 珖	shir	shiroe
 珕	swuo	swuouo
 珒	ssue	ssueee
@@ -7701,7 +7701,7 @@
 溵	nauee	naueeo
 溠	nkeie	nkeiee
 溚	nfore	nforei
-溍	nsiuee	nsiuee
+溍	nsiue	nsiuee
 溇	nquo	nquoee
 湣	nqiuee	nqiuee
 湝	nmoi	nmoiue
@@ -7719,7 +7719,7 @@
 洢	njue	njueeo
 洈	nhuu	nhuuuu
 泃	nkiuee	nkiuee
-泂	nsiue	nsiuee
+泂	nsiuee	nsiuee
 沘	nmeu	nmeuou
 沇	ncou	ncouuu
 汫	nyeeo	nyeeoi
@@ -7843,7 +7843,7 @@
 𬹼	hdoii	hdoiii
 𬸪	mgou	mgouru
 𬸦	dmou	dmouru
-𬸣	hfouru	hfouru
+𬸣	hfour	hfouru
 𬸚	pseor	pseorr
 𬸘	vwuoeo	vwuoeo
 𬷕	ffouru	ffouru
@@ -7876,7 +7876,7 @@
 𬭯	vqoe	vqoeor
 𬭬	vxee	vxeeei
 𬭩	vcur	vcureu
-𬭤	vjueo	vjueoe
+𬭤	vjue	vjueoe
 𬭛	vnuo	vnuoiu
 𬭚	vguie	vguiee
 𬭎	vveou	vveour
@@ -7897,7 +7897,7 @@
 𬤝	sjiuee	sjiuee
 𬤊	ssiuee	ssiuee
 𬤇	ste	steiee
-𬣳	shuee	shueeu
+𬣳	shue	shueeu
 𬣡	skeeu	skeeuo
 𬣞	sveee	sveeee
 𬣙	saee	saeeii
@@ -7918,9 +7918,9 @@
 𬘘	xqou	xqouuu
 𬘓	xwo	xwoiii
 𬕂	lliuor	lliuor
-𬒗	dliuo	dliuou
+𬒗	dliu	dliuou
 𬒔	dhiuee	dhiuee
-𬒈	ndeoi	ndeoiu
+𬒈	ndeo	ndeoiu
 𬍤	sce	sceirr
 𬍡	ntooee	ntooee
 𬍛	spio	spiorr
@@ -7978,8 +7978,8 @@
 𫓯	vheie	vheiee
 𫓧	vjeeo	vjeeor
 𫑡	kwuui	kwuuii
-𫐓	yheio	yheior
-𫐐	ytouu	ytouuu
+𫐓	yhei	yheior
+𫐐	ytou	ytouuu
 𫐄	yjouuu	yjouuu
 𫍽	scei	sceiue
 𫍲	stiur	stiurr
@@ -8000,7 +8000,7 @@
 𩾌	dauee	daueei
 𩾃	dwouu	dwouuu
 𩽾	dvuo	dvuoee
-𨺙	ytou	ytouuu
+𨺙	ytouu	ytouuu
 𨱔	vdei	vdeirr
 𨱑	vpiue	vpiuei
 𨱏	vfor	vforei
@@ -8072,7 +8072,7 @@
 瑧	sloe	sloeio
 瑓	szrr	szrrrr
 琈	syuie	syuiee
-珢	shue	shueeu
+珢	shuee	shueeu
 珛	sdiue	sdiuee
 珋	spo	spouou
 玤	sxe	sxeeei
@@ -8083,7 +8083,7 @@
 烠	pdiuee	pdiuee
 瀌	nmrrr	nmrrrr
 濋	nmui	nmuieo
-澽	ndeo	ndeouo
+澽	ndeou	ndeouo
 澪	npor	nporru
 潩	ngeiie	ngeiie
 漤	nmuo	nmuoee
@@ -8122,10 +8122,10 @@
 彐	cuee	cueeee
 弨	xsiuee	xsiuee
 庱	alo	alorou
-崶	yhei	yheirr
+崶	yheir	yheirr
 峛	ybiii	ybiiii
 峏	yyeoiu	yyeoiu
-寁	vjue	vjueei
+寁	vjuee	vjueei
 墡	lkroei	lkroei
 墕	lkuer	lkuerr
 塱	jtouee	jtouee
@@ -8145,16 +8145,16 @@
 劐	fmu	fmurii
 傃	jxuu	jxuuri
 侴	qjui	qjuiee
-䶮	lfeeo	lfeeor
+䶮	lfee	lfeeor
 䴙	bfou	bfouru
 䴘	adouo	adouou
 䴗	wpour	wpouru
-䴖	hfour	hfouru
+䴖	hfouru	hfouru
 䴕	bnou	bnouru
 䴔	qhou	qhouru
 䴓	jyou	jyouru
 䲢	hlou	hlouiu
-䲠	dliu	dliuee
+䲠	dliue	dliuee
 䲟	dpeui	dpeuii
 䦃	vfeieo	vfeieo
 䥽	vxuo	vxuour
