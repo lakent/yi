@@ -29,8 +29,8 @@ jobs:
 
       - name: merge opencc
         run: |
-          join yi_table.txt yi_spelling.txt  | awk '{print $1"\t"$2"·"$4}' > rime-yi/opencc/yi_spelling.txt
-        
+          paste yi_table.txt yi_spelling.txt | awk '{print $1"\t"$2"·"$5}' > rime-yi/opencc/yi_spelling.txt
+          
       - name: Push to rime-yi
         run: |
           cd rime-yi
