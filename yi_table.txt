@@ -1908,7 +1908,7 @@
 慎	hhor	hhorrr
 昆	wme	wmeuou
 誓	msr	msreee
-凑	wloe	wloeor
+凑	wle	wleeor
 袁	lko	lkouor
 撤	gxi	gxiuee
 劈	bsu	bsuooo
@@ -2892,7 +2892,7 @@
 淳	ngu	nguiee
 桓	tjiu	tjiuee
 旬	kwiu	kwiuee
-揍	glo	gloeor
+揍	gleeo	gleeor
 扳	gaur	gaurrr
 熏	nxi	nxiuro
 咸	kleiu	kleiue
@@ -5870,7 +5870,7 @@
 阏	fmorr	fmorrr
 铖	vkuu	vkuuuu
 钚	vheoi	vheoir
-辏	yloe	yloeor
+辏	yleeo	yleeor
 蟊	hbiuei	hbiuei
 藨	fmrrr	fmrrrr
 蒴	fsoue	fsouee
@@ -6535,7 +6535,7 @@
 虓	gdou	gdouuu
 萑	fmoi	fmoire
 茇	fdurr	fdurrr
-腠	hlo	hloeor
+腠	hlee	hleeor
 糌	qnir	qniriu
 箦	lxiu	lxiuor
 筅	lgoe	lgoeie
