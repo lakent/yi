@@ -6447,7 +6447,7 @@
 顸	nneoiu	nneoiu
 阘	fwur	fwureu
 镵	vweu	vweuou
-镟	vdie	vdieor
+镟	vduie	vduieo
 镓	vveo	vveouo
 酴	tqe	tqeior
 蹅	ztiu	ztiuee
@@ -7084,7 +7084,7 @@
 朏	hyuiii	hyuiii
 晫	wliu	wliuee
 昒	wjou	wjouoo
-旐	mvour	mvoure
+旐	dxre	dxreor
 斠	pseier	pseier
 敔	jkoe	jkoeor
 攉	gpoi	gpoire
