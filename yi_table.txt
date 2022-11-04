@@ -1909,7 +1909,7 @@
 昆	wme	wmeuou
 誓	msr	msreee
 凑	wle	wleeor
-袁	lko	lkouor
+袁	njou	njouor
 撤	gxi	gxiuee
 劈	bsu	bsuooo
 蛮	pbi	pbiuei
@@ -2614,7 +2614,7 @@
 姥	mfou	mfouuu
 郝	cyui	cyuiii
 璇	sdu	sduieo
-辕	yliu	yliueo
+辕	ynou	ynouor
 厄	agu	aguuuu
 绽	xpr	xprrue
 胀	hboe	hboeur
