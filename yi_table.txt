@@ -7168,7 +7168,7 @@
 煴	pwiuii	pwiuii
 焗	pzu	pzuiue
 瀍	naiue	naiuee
-滗	nloe	nloeeu
+滗	nloee	nloeeu
 湑	nmiuee	nmiuee
 浉	nneiu	nneiui
 洚	nneu	nneuii
@@ -8162,7 +8162,7 @@
 䢼	pyuuii	pyuuii
 䢺	ysuiii	ysuiii
 䝙	dmeo	dmeoru
-䗴	bloe	bloeie
+䗴	bloei	bloeie
 䗪	dfrr	dfrrrr
 䗛	bjour	bjouri
 䗖	bfr	bfruiu
