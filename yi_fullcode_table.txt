@@ -305,7 +305,7 @@
 黑	xiuroe
 火	proorr
 云	meeurr
-报	gwuiur
+报	gwurrr
 指	gniuee
 书	ttirrr
 远	lrrurr
@@ -331,7 +331,7 @@
 认	sdorrr
 往	fkreei
 形	nwoooo
-服	hwuiur
+服	hwurrr
 倒	jgiiii
 离	qliuur
 刚	shiiii
@@ -4287,7 +4287,7 @@
 戛	dbeuor
 僮	jhiuee
 颧	fhoire
-赧	cwuiur
+赧	cwurrr
 蠹	bdiuei
 藜	fcouuu
 湮	nteiee
