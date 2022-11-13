@@ -41,19 +41,17 @@ def writeTable(path):
     table_file.close()
 
 def simpleWord():
-    flag = []
-
     for i in range(len(dic)):
-        t = dic[i][1][0:2]
-        if t in flag: continue
-        count = 2
-        for j in range(len(dic)):
-            currentWord = dic[j][1]
-            if t == currentWord[0:2]:
-                dic[j][1] = dic[j][1][0:count]
-                count = count + 1
-            if count >= 6:
-                break
+        short = dic[i][1]
+        t = 2
+        current = short[0:t]
+        for j in range(i):
+            current = short[0:t]
+            matching = dic[j][1]
+            if matching == current:
+                t = t + 1
+                if t > 6: break
+        dic[i][1] = current
 
 if __name__ == '__main__':
     # read components mapping
