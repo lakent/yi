@@ -2246,7 +2246,7 @@
 朴	tli
 泼	nxu
 账	dboe
-俯	jaor
+俯	jaoi
 逝	mrru
 葬	fbo
 讽	sao
@@ -6217,7 +6217,7 @@
 曈	whiu
 嵚	yvouo
 哕	kyour
-亹	bseiu
+亹	btiu
 亍	aee
 丌	jeo
 鲥	dweir
@@ -6786,7 +6786,7 @@
 穸	dbour
 穟	cweo
 稂	cju
-瞍	btiu
+瞍	btiur
 癍	lsreo
 畯	gcor
 甏	aweu
@@ -6970,7 +6970,7 @@
 觿	hyoir
 觖	hvorr
 袼	hzouri
-螋	btiur
+螋	btiurr
 蕺	fkeiie
 蓢	fjueeu
 莶	fqrro
@@ -7358,7 +7358,7 @@
 儦	jmrrr
 傺	jyee
 傉	jyei
-偁	jyiue
+偁	jyiui
 侘	jvoeu
 侂	jaoe
 侁	jgoe
@@ -7867,7 +7867,7 @@
 𬱖	aneoi
 𬯎	yliuor
 𬯀	ynoi
-𬮿	ygouu
+𬮿	yyue
 𬮱	fteie
 𬭼	vweo
 𬭸	vqour
@@ -8144,7 +8144,7 @@
 叕	ffur
 劐	fmu
 傃	jxuu
-侴	qjui
+侴	qaii
 䶮	lfee
 䴙	bfou
 䴘	adouo

@@ -2246,7 +2246,7 @@
 朴	tlirrr
 泼	nxuour
 账	dboeur
-俯	jaorei
+俯	jaoiei
 逝	mrrurr
 葬	fboueo
 讽	saorrr
@@ -6217,7 +6217,7 @@
 曈	whiuee
 嵚	yvouor
 哕	kyourr
-亹	bseiue
+亹	btiuei
 亍	aeeiii
 丌	jeoiii
 鲥	dweirr
@@ -7358,7 +7358,7 @@
 儦	jmrrrr
 傺	jyeeio
 傉	jyeirr
-偁	jyiuei
+偁	jyiuie
 侘	jvoeuu
 侂	jaoeuu
 侁	jgoeie
@@ -7867,7 +7867,7 @@
 𬱖	aneoiu
 𬯎	yliuor
 𬯀	ynoiii
-𬮿	ygouuu
+𬮿	yyueuu
 𬮱	fteiee
 𬭼	vweouo
 𬭸	vqoure
@@ -8144,7 +8144,7 @@
 叕	ffurur
 劐	fmurii
 傃	jxuuri
-侴	qjuiee
+侴	qaiiii
 䶮	lfeeor
 䴙	bfouru
 䴘	adouou
