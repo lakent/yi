@@ -2370,7 +2370,7 @@
 眯	bqroei
 肆	bsueee
 靖	hheeie
-诞	sjieie
+诞	sjieuu
 赔	dhiuee
 浸	ncruur
 蹲	zdeirr
@@ -3483,7 +3483,7 @@
 烹	gcrrrr
 揩	gmoiue
 圭	heieei
-筵	ljieie
+筵	ljieuu
 嗒	kforei
 掣	vyiioe
 咎	nliuee
@@ -3587,7 +3587,7 @@
 瘪	ljorou
 焱	pproor
 乒	qjoooo
-涎	njieie
+涎	njieuu
 沅	nleeou
 埔	lfeiue
 噎	kbeiue
@@ -3814,7 +3814,7 @@
 偕	jmoiue
 隘	yaoriu
 棣	tcireo
-蜒	bjieie
+蜒	bjieuu
 椭	tyeoiu
 硝	dciuee
 缤	xvoiei
@@ -6164,7 +6164,7 @@
 尪	xseeie
 宄	vgouuu
 埸	lwouoo
-埏	ljieie
+埏	ljieuu
 儇	jceiue
 髹	bjeior
 饔	bpooir
@@ -7285,7 +7285,7 @@
 甡	ggoeei
 甗	dleuur
 瑀	sjiuei
-珽	sjieie
+珽	sjeieu
 玼	stieie
 獴	pweeou
 猺	pyoeei
@@ -7460,7 +7460,7 @@
 牚	caeuio
 煺	phrurr
 煟	pgiuee
-烻	pjieie
+烻	pjieuu
 炟	pqiuee
 澂	nyeoeo
 淴	njrurr
@@ -7475,7 +7475,7 @@
 楱	tleeor
 椸	tduiuu
 梽	tlrurr
-梴	tjieie
+梴	tjieuu
 桲	tpruui
 栻	tkeiee
 栟	taeoii
@@ -7913,7 +7913,7 @@
 𬘭	xmeior
 𬘬	xheeie
 𬘫	xveeou
-𬘩	xjieie
+𬘩	xjeieu
 𬘡	xqiueo
 𬘘	xqouuu
 𬘓	xwoiii
@@ -8222,3 +8222,18 @@
 㕮	kloror
 㑊	jpreoi
 㑇	jxouue
+𫄧	xjieuu
+仈	jforrr
+伻	jheroe
+凃	wqeior
+媢	mwiuee
+鴘	cnoiue
+暋	qniuee
+蚡	bsoruo
+穀	bjoeio
+𮧵	jypeii
+鿔	vgeiue
+鿭	vaouio
+𫟷	vhrero
+鿬	dgiuei
+鿫	vzroei
