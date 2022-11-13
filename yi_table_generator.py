@@ -2,6 +2,7 @@
 
 etymon = []
 dic = []
+shortcode = []
 
 # query components(be queried)
 def fname(arg):
@@ -9,6 +10,14 @@ def fname(arg):
         z = etymon[x][0]
         if z == arg:
             return etymon[x][1]
+
+def scode(code, index):
+    currentCode = code[0:index]
+    if currentCode in shortcode and index <=6:
+        return scode(code,index+1)
+    else:
+        shortcode.append(currentCode)
+        return currentCode
 
 def translatesCode():
     dicCount = len(dic)
@@ -31,27 +40,26 @@ def readTable(path):
     except Exception:
         print(Exception)
 
-def writeTable(path):
+def writeFullTable(path):
     table_file = open(path, "w", encoding='utf-8')
     for i in dic:
-        character=i[0]
-        code=i[1]
+        character = i[0]
+        code = i[1]
         table_file.write(character+"\t"+ code +"\n")
 
     table_file.close()
 
-def simpleWord():
-    for i in range(len(dic)):
-        short = dic[i][1]
-        t = 2
-        current = short[0:t]
-        for j in range(i):
-            current = short[0:t]
-            matching = dic[j][1]
-            if matching == current:
-                t = t + 1
-                if t > 6: break
-        dic[i][1] = current
+
+def writeShortTable(path):
+    table_file = open(path, "w", encoding='utf-8')
+    for i in dic:
+        character = i[0]
+        code = i[1]
+        code = scode(code,2)
+        table_file.write(character+"\t"+ code +"\n")
+
+    table_file.close()
+
 
 if __name__ == '__main__':
     # read components mapping
@@ -65,13 +73,10 @@ if __name__ == '__main__':
 
     # write codeTable
     fullCodeTablePath = "yi_fullcode_table.txt" 
-    writeTable(fullCodeTablePath)
+    writeFullTable(fullCodeTablePath)
     print("write fullcode to " + fullCodeTablePath)
 
-    # full code translates simple code
-    simpleWord()
-
-    # write SimpleCodeTable
-    simpleCodeTablePath = "yi_table.txt"
-    writeTable(simpleCodeTablePath)
-    print("write table to " + simpleCodeTablePath)
+    # write ShortCodeTable
+    shortCodeTablePath = "yi_table.txt"
+    writeShortTable(shortCodeTablePath)
+    print("write table to " + shortCodeTablePath)

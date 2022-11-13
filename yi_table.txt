@@ -1968,7 +1968,7 @@
 巾	yiu
 哲	mkiu
 耗	dwo
-赐	dwo
+赐	dwou
 胁	hwor
 婉	mvo
 遮	dnru
@@ -3303,7 +3303,7 @@
 悸	hcu
 靡	yzi
 炳	pfo
-鸾	pfo
+鸾	pfou
 袱	hjeo
 怦	hher
 娄	qmu
@@ -4980,7 +4980,7 @@
 醚	tqru
 绻	xlu
 忾	hvoe
-碣	dwou
+碣	dwouo
 獒	kpeor
 桡	tpeu
 掼	gviu
@@ -6455,7 +6455,7 @@
 貘	dyeii
 诼	shrrr
 蚵	baiu
-蚰	baiu
+蚰	baiue
 薷	fpeoi
 蒗	yjue
 苘	fsiuee
@@ -7080,7 +7080,7 @@
 洺	nbiuee
 沲	nvui
 棁	tkou
-柷	tkou
+柷	tkouu
 朏	hyuiii
 晫	wliu
 昒	wjou
@@ -7537,7 +7537,7 @@
 麖	mlre
 鹱	ffoir
 鹝	lfour
-鸼	pfou
+鸼	pfour
 鳡	dkeiue
 鳆	dviu
 鲺	dpo
