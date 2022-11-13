@@ -52,7 +52,7 @@ def simpleWord():
             if t == currentWord[0:2]:
                 dic[j][1] = dic[j][1][0:count]
                 count = count + 1
-            if count >= 5:
+            if count >= 6:
                 break
 
 if __name__ == '__main__':
