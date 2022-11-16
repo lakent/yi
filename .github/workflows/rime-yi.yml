@@ -29,7 +29,7 @@ jobs:
 
       - name: merge opencc
         run: |
-          paste yi_table.txt yi_spelling.txt | awk '{print $1"\t"$2"·"$5}' > rime-yi/opencc/yi_spelling.txt
+          paste yi_table.txt yi_spelling.txt | awk '{print $1"\t"$2"·"$4}' > rime-yi/opencc/yi_spelling.txt
           
       - name: Push to rime-yi
         run: |
@@ -38,5 +38,5 @@ jobs:
           git config user.email ${{ secrets.GITUSEREMAIL }}
           git add yi.dict.yaml
           git add opencc/yi_spelling.txt
-          git commit -m "update rime yi"
+          git commit -m "sync rime yi"
           git push
