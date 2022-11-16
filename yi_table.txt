@@ -1090,7 +1090,7 @@
 操	gki
 获	fpe
 懂	hfo
-萧	fsn
+萧	fso
 蒂	fhi
 著	ffe
 妻	jsu
@@ -1751,7 +1751,7 @@
 喂	kgeu
 瑟	ssr
 猎	ppi
-啸	ksn
+啸	ksoi
 扇	tyu
 储	jsei
 润	nfeei
@@ -1789,7 +1789,7 @@
 躯	zvo
 乖	nzi
 刑	nniii
-芬	fso
+芬	fsor
 侵	jcr
 薇	faou
 扮	gsor
@@ -2918,7 +2918,7 @@
 涡	nkiuo
 蕊	flru
 霓	pto
-箫	lsn
+箫	lsoi
 拧	gve
 彪	daoo
 凹	hiu
@@ -7220,7 +7220,7 @@
 鲖	dseiue
 鬷	lhui
 髢	bduiu
-骕	asn
+骕	asoi
 骉	aau
 骃	aqi
 靰	qjouu
@@ -7772,7 +7772,7 @@
 弶	xlrei
 弪	xpure
 廙	agei
-廆	asoi
+廆	asoiu
 庤	aleir
 嶦	yhorr
 嶟	ydeir

@@ -1090,7 +1090,7 @@
 操	gkiuei
 获	fpeorr
 懂	hfoeii
-萧	fsnoro
+萧	fsoior
 蒂	fhiuii
 著	ffeieo
 妻	jsuoee
@@ -1751,7 +1751,7 @@
 喂	kgeuor
 瑟	ssruro
 猎	ppiuee
-啸	ksnoro
+啸	ksoior
 扇	tyureu
 储	jseieo
 润	nfeeie
@@ -2918,7 +2918,7 @@
 涡	nkiuor
 蕊	flrurr
 霓	ptouuu
-箫	lsnoro
+箫	lsoior
 拧	gveiii
 彪	daoooo
 凹	hiuiue
@@ -7220,7 +7220,7 @@
 鲖	dseiue
 鬷	lhuiur
 髢	bduiuu
-骕	asnoro
+骕	asoior
 骉	aauuee
 骃	aqiueo
 靰	qjouuu
