@@ -3020,7 +3020,7 @@
 钮	vau
 萌	fwoue
 茱	fjeei
-臀	zpi
+臀	zpou
 缴	xdr
 虔	dnre
 葱	fjrr
@@ -5526,7 +5526,7 @@
 腩	hpiur
 脲	hziu
 缬	xneo
-纛	xveu
+纛	xviue
 痿	lcuo
 坩	ldei
 圪	lvuu
@@ -5652,7 +5652,7 @@
 陉	ypure
 铱	vjr
 醢	tdiuei
-蹓	zpiu
+蹓	zpi
 蓊	fcur
 翥	ffeie
 秭	cxrou
