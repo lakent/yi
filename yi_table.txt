@@ -1003,7 +1003,7 @@
 替	jji
 概	tte
 秦	lco
-协	pwo
+协	pwr
 材	ttei
 魂	mso
 织	xko
@@ -1036,7 +1036,7 @@
 祖	hbi
 瑞	syeo
 例	jbi
-迎	pwr
+迎	pwru
 胸	hkor
 晓	wpeu
 透	cwr
@@ -1886,7 +1886,7 @@
 穆	cdi
 姬	mq
 柄	tfor
-饿	pwoe
+饿	pwo
 琪	sge
 邻	qyu
 姨	mku
@@ -3002,7 +3002,7 @@
 酿	tju
 碟	ddue
 慷	haue
-猩	pwoee
+猩	pwoe
 疚	lto
 昼	kqiue
 淌	nciu
@@ -8078,7 +8078,7 @@
 玤	sxe
 牻	cxoo
 煓	pyeoiu
-煋	pwoeei
+煋	pwoee
 焆	pkiuee
 烠	pdiuee
 瀌	nmrrr
