@@ -3541,7 +3541,7 @@
 鸥	mfouru
 寅	vjiuei
 赘	kdiuor
-蜷	bluuuu
+蜷	bluuuuf
 蒜	fseeio
 痰	lproor
 髻	bneiei
@@ -5648,7 +5648,7 @@
 撄	gdiuor
 崃	ywiorr
 傈	jteior
-黼	jqoeor
+黼	jqeiue
 陉	ypurei
 铱	vjreou
 醢	tdiuei

@@ -5648,7 +5648,7 @@
 撄	gdiuo
 崃	ywio
 傈	jteior
-黼	jqoe
+黼	jqe
 陉	ypure
 铱	vjr
 醢	tdiuei
@@ -5976,7 +5976,7 @@
 垱	lcuee
 囷	kcoei
 侉	jkee
-黻	jqe
+黻	jqeo
 鹢	afiui
 陔	yhre
 鏊	kvor
