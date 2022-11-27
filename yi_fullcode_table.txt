@@ -2389,7 +2389,7 @@
 灿	pyiuii
 浦	nfeiue
 窃	dnuooo
-嫣	mkuerr
+嫣	mkeurr
 鲍	dkueuu
 衷	bvouor
 丸	gjrrrr
@@ -4889,7 +4889,7 @@
 疽	lbiuee
 瑭	saueei
 铄	vpiorr
-蔫	fkuerr
+蔫	fkeurr
 暝	wqiuee
 喑	kmrero
 魍	ssroer
@@ -7693,7 +7693,7 @@
 潽	naiiro
 潵	npiuee
 潖	nseeie
-漹	nkuerr
+漹	nkeurr
 漷	nguieu
 漴	nyrrue
 漈	nyeeio
@@ -8127,7 +8127,7 @@
 峏	yyeoiu
 寁	vjueei
 墡	lkroei
-墕	lkuerr
+墕	lkeurr
 塱	jtouee
 堾	lliuee
 堐	laeiee
