@@ -5654,7 +5654,7 @@
 醢	tdiuei
 蹓	zpi
 蓊	fcur
-翥	ffeie
+翥	fyur
 秭	cxrou
 疴	lgeiu
 槲	thrr
@@ -6099,7 +6099,7 @@
 刬	knii
 僦	jleo
 鲮	dlo
-阇	ffeieo
+阇	ffeie
 郇	kmui
 谝	stiu
 詟	lsree
@@ -6759,7 +6759,7 @@
 馌	pwiuii
 飑	ahouu
 颎	npeoiu
-阌	fyur
+阌	fyurr
 镡	vtiue
 镙	vguu
 铼	vwio
