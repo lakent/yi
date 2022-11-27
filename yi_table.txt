@@ -5354,7 +5354,7 @@
 蛩	lari
 莜	fjo
 碛	dxi
-夤	bveo
+夤	bvei
 哚	kaeio
 呔	kkrr
 鲟	dcei
@@ -5892,7 +5892,7 @@
 铍	vzuo
 铊	vvouu
 酐	tneei
-蛄	bvei
+蛄	bveii
 缑	xju
 縠	bjuu
 籴	dqro
