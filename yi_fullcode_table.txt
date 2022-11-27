@@ -1815,7 +1815,7 @@
 笼	lleouo
 糟	qjiuei
 贯	vdiuor
-液	nborou
+液	nboiou
 盈	wfiuii
 肤	hjeeor
 媚	mziuee
@@ -3885,7 +3885,7 @@
 榭	tzeirr
 恣	plrurr
 潦	nkroiu
-腋	hborou
+腋	hboiou
 呗	kdiuor
 褒	bjiuee
 淬	nboror
@@ -4102,7 +4102,7 @@
 谚	sheooo
 蚣	bcorur
 掰	nsoeei
-掖	gborou
+掖	gboiou
 蹒	zfeiuo
 靥	apeoiu
 熨	zseirr

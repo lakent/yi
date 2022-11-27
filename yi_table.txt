@@ -3885,7 +3885,7 @@
 榭	tze
 恣	plr
 潦	nkro
-腋	hboro
+腋	hboi
 呗	kdiuor
 褒	bjiu
 淬	nbor
@@ -4102,7 +4102,7 @@
 谚	sheoo
 蚣	bcoru
 掰	nsoee
-掖	gbor
+掖	gboi
 蹒	zfeiu
 靥	apeo
 熨	zsei
@@ -5791,7 +5791,7 @@
 棼	msor
 杌	tjou
 曛	wniur
-捽	gboro
+捽	gbor
 幪	ywee
 巯	pxoi
 妁	mkrr
