@@ -5926,7 +5926,7 @@
 悫	barurr
 屙	zyeiue
 媵	hluoee
-妫	mjuorr
+妫	mjourr
 埙	lkiuor
 叻	kwuooo
 鸮	kwouru
@@ -6339,7 +6339,7 @@
 猓	pweior
 潲	nciroi
 洫	njiuii
-沩	njuorr
+沩	njourr
 桫	tnioro
 朊	hyouuu
 憷	hmuieo
@@ -7986,7 +7986,7 @@
 𫍯	skeiue
 𫍣	sseiue
 𫌀	hxiuor
-𫇭	fjuorr
+𫇭	fjourr
 𫄸	xniuro
 𫄷	xmrurr
 𫄨	xheoiu

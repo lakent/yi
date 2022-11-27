@@ -5926,7 +5926,7 @@
 悫	baru
 屙	zyeiu
 媵	hluo
-妫	mjuo
+妫	mjou
 埙	lkiuor
 叻	kwuooo
 鸮	kwour
@@ -6339,7 +6339,7 @@
 猓	pwei
 潲	nciro
 洫	njiui
-沩	njuo
+沩	njour
 桫	tnio
 朊	hyou
 憷	hmuie
@@ -7986,7 +7986,7 @@
 𫍯	skeiue
 𫍣	sseiu
 𫌀	hxiuo
-𫇭	fjuo
+𫇭	fjour
 𫄸	xniu
 𫄷	xmru
 𫄨	xheo
