@@ -1342,7 +1342,7 @@
 鼻	jgiu
 阻	ybi
 臣	qei
-梁	nso
+梁	nsr
 奈	kse
 翼	yge
 逼	lgr
@@ -1902,7 +1902,7 @@
 捷	gju
 摘	ghiu
 吵	kvio
-辩	nsr
+辩	nsre
 魏	cmo
 咐	kjeir
 慎	hhor
@@ -3400,7 +3400,7 @@
 筠	llou
 惆	hse
 炕	pbouu
-溯	nsou
+溯	nso
 镰	var
 咄	kyui
 琵	sseu
@@ -3626,7 +3626,7 @@
 渍	nxiuo
 崽	ygr
 嚓	kvou
-汲	nsour
+汲	nsou
 叼	kteee
 锄	vbuo
 囔	kbiuei
