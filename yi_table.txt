@@ -784,7 +784,7 @@
 耳	yeii
 属	zj
 忘	xlru
-苏	fwo
+苏	fwr
 伙	jpr
 仅	jfu
 景	wlr
@@ -1777,7 +1777,7 @@
 姜	kmu
 捉	gkieo
 抛	ggu
-葛	fwou
+葛	fwo
 扣	gkiuee
 盾	api
 勤	ywu
@@ -3018,7 +3018,7 @@
 浇	npeu
 疤	lguie
 钮	vau
-萌	fwoue
+萌	fwou
 茱	fjeei
 臀	zpou
 缴	xdr
