@@ -2179,7 +2179,7 @@
 骄	afoi
 歪	hkei
 诡	shu
-伪	jju
+伪	jjo
 蓉	fdor
 鼎	bki
 蓬	fne
@@ -3699,7 +3699,7 @@
 铐	vfeu
 谑	sdeu
 鹭	zzo
-佰	jjo
+佰	jjoi
 籁	lzoui
 芠	fnreo
 瓢	tsoo
@@ -6486,7 +6486,7 @@
 哜	knoi
 呒	kjeou
 傒	jyuu
-仫	jjur
+仫	jju
 龆	hsi
 鹇	ftour
 鳣	dbiui
