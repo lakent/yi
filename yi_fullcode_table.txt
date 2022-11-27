@@ -2200,7 +2200,7 @@
 眠	bqueue
 禅	hhroiu
 渔	ndouiu
-赋	djeuri
+赋	djeiei
 慨	hteuou
 削	chiiii
 辽	crrurr
@@ -2478,7 +2478,7 @@
 娱	mkeeor
 擒	gdreor
 犬	peorrr
-斌	njeuri
+斌	njeiei
 羡	kpreou
 窄	dzoeie
 拘	gkiuee
@@ -6829,7 +6829,7 @@
 锇	vwoeie
 铏	vneeoi
 跐	ztieie
-赟	njeuri
+赟	njeiei
 謦	lzouur
 襚	hweouo
 蛑	bcoeei
@@ -7449,7 +7449,7 @@
 瓖	sbiuei
 璲	sweouo
 琄	skiuee
-珷	sjeuri
+珷	sjeiei
 珫	sxouuu
 珝	syureu
 玱	sduuuu

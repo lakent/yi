@@ -2200,7 +2200,7 @@
 眠	bq
 禅	hhro
 渔	ndo
-赋	djeu
+赋	djei
 慨	hteu
 削	chii
 辽	cr
@@ -2478,7 +2478,7 @@
 娱	mkee
 擒	gdr
 犬	peo
-斌	njeu
+斌	njei
 羡	kpr
 窄	dzoe
 拘	gkiuee
@@ -4259,7 +4259,7 @@
 菠	yzuo
 邂	hsoee
 谟	syeiii
-汴	njei
+汴	njeir
 咿	kjueeo
 粲	lbur
 碘	daor
@@ -5717,7 +5717,7 @@
 鲽	dduei
 鬯	hnui
 雎	bmoi
-貅	djei
+貅	djeio
 裥	hfiue
 蝾	bweio
 葑	fheir
@@ -6829,7 +6829,7 @@
 锇	vwoe
 铏	vnee
 跐	ztie
-赟	njeur
+赟	njeie
 謦	lzouur
 襚	hweo
 蛑	bcoe
@@ -7449,7 +7449,7 @@
 瓖	sbiu
 璲	sweo
 琄	skiuee
-珷	sjeur
+珷	sjeiei
 珫	sxou
 珝	syure
 玱	sduu
@@ -8005,7 +8005,7 @@
 𨱑	vpiue
 𨱏	vfor
 𨱇	vweir
-𨭉	njeie
+𨭉	njeiei
 𨟠	bboire
 𨚕	cnui
 𨙸	pfui
