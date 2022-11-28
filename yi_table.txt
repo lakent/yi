@@ -2719,7 +2719,7 @@
 喔	kze
 襟	hme
 孽	fjiu
-叱	kneu
+叱	kno
 炭	ydr
 趴	zfor
 螺	bgu
@@ -3121,7 +3121,7 @@
 窒	dgeu
 聋	ly
 蔚	fze
-嗨	kno
+嗨	knoe
 拇	gvuu
 砚	dfi
 僚	jkro
