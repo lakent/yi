@@ -5220,7 +5220,7 @@
 畲	dsiu
 墀	lzi
 钤	vqorr
-蕖	yveu
+蕖	yvue
 滘	nqore
 仨	jpee
 镛	vaue
@@ -7017,7 +7017,7 @@
 慆	hyoie
 彟	cjei
 崾	ytuo
-岠	yvue
+岠	yvuee
 嫘	mguu
 墦	lmi
 埼	lkeiu
