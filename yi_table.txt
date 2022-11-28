@@ -3288,7 +3288,7 @@
 唧	ktui
 皂	dneu
 缄	xkeiu
-柬	zwrr
+柬	zwro
 曙	wce
 喳	ktiu
 椒	tlio
@@ -8070,7 +8070,7 @@
 璱	ssee
 璮	sbiui
 瑧	sloe
-瑓	szrr
+瑓	szro
 琈	syuie
 珢	shuee
 珛	sdiue

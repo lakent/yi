@@ -3288,7 +3288,7 @@
 唧	ktuiii
 皂	dneuuu
 缄	xkeiue
-柬	zwrrrr
+柬	zwrooo
 曙	wceieo
 喳	ktiuee
 椒	tlioru
@@ -3373,7 +3373,7 @@
 熠	pyoiue
 苇	fjeeui
 峙	yleirr
-阑	fzrrrr
+阑	fzrooo
 磷	dqoure
 肾	mhiuee
 儡	jgiuei
@@ -3779,7 +3779,7 @@
 碾	dzeiie
 撵	gjeeor
 饵	pyeiie
-谏	szrrrr
+谏	szrooo
 曝	wweiie
 厩	ateuou
 鹉	jkieie
@@ -5711,7 +5711,7 @@
 犴	pneeii
 澍	naeirr
 歃	ntouor
-楝	tzrrrr
+楝	tzrooo
 摭	gdrrrr
 尻	zgouuu
 鲽	ddueio
@@ -7744,7 +7744,7 @@
 枅	tneeoi
 杧	txreuu
 暲	wmeiii
-暕	wzrrrr
+暕	wzrooo
 暅	wheiue
 晱	wproor
 晊	wgeure
@@ -7850,7 +7850,7 @@
 𬶮	daiuee
 𬶭	dyeeio
 𬶨	tnouiu
-𬶠	dzrrrr
+𬶠	dzrooo
 𬶟	dziiii
 𬶐	dxreor
 𬶏	dhuuuu
@@ -8070,7 +8070,7 @@
 璱	sseeie
 璮	sbiuiu
 瑧	sloeio
-瑓	szrrrr
+瑓	szrooo
 琈	syuiee
 珢	shueeu
 珛	sdiuee
