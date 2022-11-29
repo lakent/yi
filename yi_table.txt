@@ -3036,7 +3036,7 @@
 蕙	fjiuee
 觑	djiuo
 蝇	bkiu
-泻	nque
+泻	nqeu
 蜘	bvi
 虾	bleir
 瞻	bho
@@ -4267,7 +4267,7 @@
 噫	kmr
 谆	sgui
 羚	kqorr
-泯	nqueu
+泯	nque
 孀	mpeio
 缜	xhor
 怏	hseo
