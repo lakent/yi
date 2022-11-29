@@ -6074,7 +6074,7 @@
 鹣	yfou
 鲅	ddur
 鞬	qsur
-躞	zpr
+躞	zsr
 躔	zaiu
 躐	zwi
 豨	hheoiu
@@ -8021,7 +8021,7 @@
 𥖨	dkiuei
 𥕢	djiuei
 𥔲	dheeu
-𤫉	spre
+𤫉	ssroo
 𤩽	spiuro
 𤧛	shiui
 𣸣	npeiii
