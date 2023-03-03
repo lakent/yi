@@ -1786,7 +1786,7 @@
 恒	hjiu
 厨	ahe
 冯	wa
-躯	zvo
+躯	zme
 乖	nzi
 刑	nniii
 芬	fsor
@@ -1981,7 +1981,7 @@
 蝶	bdu
 矛	hur
 龄	hqor
-屁	zme
+屁	zmeu
 岭	yqor
 韵	mkr
 夕	bour
@@ -4909,7 +4909,7 @@
 讣	slir
 粕	qdo
 蹉	zkei
-跎	zvou
+跎	zvo
 脍	hdeeu
 揆	gyeeo
 鳃	dgr
