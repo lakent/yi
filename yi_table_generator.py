@@ -1,7 +1,5 @@
 #! /usr/bin/env python
 
-etymon = []
-dic = []
 shortcode = []
 
 # query components(be queried)
@@ -19,14 +17,13 @@ def scode(code, index):
         shortcode.append(currentCode)
         return currentCode
 
-def translatesCode():
-    dicCount = len(dic)
-    for i in range(dicCount):
-        s = ''
-        for j in range(len(dic[i][1])):
-            ch = dic[i][1][j]
-            s=s+fname(ch)
-        dic[i][1] = s
+def translatesCode(dic, etymon):
+    fullcode = []
+    for item in dic:
+        s = ''.join([fname(ch) for ch in item[1]])
+        new_item = [item[0], s]
+        fullcode.append(new_item)
+    return fullcode
 
 def readTable(path):
     try:
@@ -69,7 +66,7 @@ if __name__ == '__main__':
     dic = readTable('yi_spelling.txt')
 
     # spelling translates code
-    translatesCode()
+    fullcode = translatesCode(dic,etymon)
 
     # write codeTable
     fullCodeTablePath = "yi_fullcode_table.txt" 
