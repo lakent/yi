@@ -39,7 +39,7 @@ def readTable(path):
 
 def writeFullTable(path):
     table_file = open(path, "w", encoding='utf-8')
-    for i in dic:
+    for i in fullcode:
         character = i[0]
         code = i[1]
         table_file.write(character+"\t"+ code +"\n")
@@ -49,14 +49,13 @@ def writeFullTable(path):
 
 def writeShortTable(path):
     table_file = open(path, "w", encoding='utf-8')
-    for i in dic:
+    for i in fullcode:
         character = i[0]
         code = i[1]
         code = scode(code,2)
         table_file.write(character+"\t"+ code +"\n")
 
     table_file.close()
-
 
 if __name__ == '__main__':
     # read components mapping
