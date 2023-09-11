@@ -6454,8 +6454,8 @@
 趼	zneeo
 貘	dyeii
 诼	shrrr
-蚵	baiu
-蚰	baiue
+蚵	bgeiu
+蚰	baiu
 薷	fpeoi
 蒗	yjue
 苘	fsiuee
@@ -7392,7 +7392,7 @@
 铻	vjiue
 铴	vnu
 铕	vdiuee
-钶	vaiuee
+钶	vgei
 钘	vneeo
 钋	vlir
 鄅	jkiuie
@@ -7973,7 +7973,7 @@
 𫔶	fjeio
 𫔎	vhiuo
 𫔍	vmiu
-𫓹	vgei
+𫓹	vgeii
 𫓶	vkiuee
 𫓯	vheie
 𫓧	vjeeo
