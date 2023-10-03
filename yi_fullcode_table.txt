@@ -3247,7 +3247,7 @@
 潢	npiuei
 纬	xjeeui
 碳	dyeoro
-溺	nxrere
+溺	nxreue
 哝	klruou
 榆	tqiuee
 彰	mpoooo
@@ -6711,7 +6711,7 @@
 衎	fneeii
 螗	baueei
 蛸	bciuee
-蒻	fxrere
+蒻	fxreue
 芑	fgueuu
 舴	pzoeie
 脬	hyuiee
