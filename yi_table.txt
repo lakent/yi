@@ -3490,7 +3490,7 @@
 搐	gbuur
 侈	jbou
 亵	bdo
-腑	haor
+腑	haoi
 隋	ydeie
 橙	tyei
 咀	kbiue
@@ -3718,7 +3718,7 @@
 蹿	zdi
 攥	gliue
 烽	pnee
-飒	haorr
+飒	haor
 紊	nduur
 渭	ngiu
 幺	puu
@@ -3827,7 +3827,7 @@
 滢	nwee
 瘸	ltiuo
 纶	xaor
-腆	haorrr
+腆	haorr
 汛	npeii
 煦	wkiu
 屹	yvu
