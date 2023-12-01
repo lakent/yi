@@ -4567,7 +4567,7 @@
 嵬	ysoi
 偻	jquo
 漕	njiu
-呶	kmur
+呶	kcuo
 鹳	fhoir
 蚓	bxii
 黍	cdire
@@ -7429,7 +7429,7 @@
 耤	dpiuee
 翂	ysoru
 筘	lgiuee
-笯	lmu
+笯	lcuoe
 穜	chiue
 穄	cye
 礵	dpeio
