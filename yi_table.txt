@@ -30,7 +30,7 @@
 要	tm
 下	le
 为	jw
-得	fq
+得	fw
 和	ck
 么	jc
 时	wj
@@ -112,7 +112,7 @@
 长	bo
 走	me
 明	wh
-间	fw
+间	fwi
 同	sl
 分	so
 气	vo
@@ -245,7 +245,7 @@
 爱	yd
 夫	jee
 利	cn
-带	fqi
+带	fq
 亲	hte
 合	cor
 通	tr
@@ -1073,7 +1073,7 @@
 伦	jao
 灭	jpro
 席	dyi
-莱	fwi
+莱	fwio
 编	xt
 益	afi
 呵	kgei
@@ -1939,7 +1939,7 @@
 烤	pfeu
 佣	jtou
 踢	zwo
-碍	dq
+碍	dwe
 宅	vjeu
 祸	hkiu
 啡	kzie
@@ -2216,7 +2216,7 @@
 竭	hwouo
 枕	tqou
 雁	ajoir
-菊	dqr
+菊	dq
 耍	ymuo
 倩	jhee
 烛	pbiu
@@ -2413,7 +2413,7 @@
 罕	qfe
 凛	wbi
 驳	aho
-茵	fqiu
+茵	fqi
 匙	snou
 萝	wbou
 凰	ade
@@ -2785,7 +2785,7 @@
 醋	tpiu
 颂	cneo
 尿	zniu
-伞	dwe
+伞	dwei
 胧	hleo
 挫	gfeie
 伽	jtuo
@@ -4494,7 +4494,7 @@
 刍	xou
 挝	gjru
 骅	ayei
-窠	dwei
+窠	dweio
 咝	kpuue
 臃	hbuu
 糠	qaue
@@ -4667,7 +4667,7 @@
 圜	kcei
 钿	vgiu
 砺	daeu
-鲶	dqru
+鲶	dqr
 蛐	bai
 爿	kui
 浃	nwor
@@ -4997,7 +4997,7 @@
 篑	lliuo
 潋	nqr
 汜	ngue
-徕	fwio
+徕	fwior
 孬	hmui
 唳	kteo
 酡	tvouu
@@ -6258,7 +6258,7 @@
 豇	hleiee
 蜣	bkuu
 蔟	fdoe
-蓠	fqiuu
+蓠	fqiu
 艿	fwuoo
 肟	hyuuu
 绨	xxr
