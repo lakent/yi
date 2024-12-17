@@ -9,9 +9,9 @@
 人	do
 有	dh
 这	nr
-来	wn
+来	dj
 你	ja
-个	dj
+个	dji
 上	li
 到	gn
 大	ke
@@ -638,7 +638,7 @@
 雨	peiu
 号	kwe
 密	vlo
-须	wne
+须	wn
 推	gm
 背	zhi
 河	nge
@@ -743,7 +743,7 @@
 烟	pq
 余	qt
 秋	cpr
-顺	wneo
+顺	wne
 顾	ag
 否	hki
 值	jhe
@@ -947,7 +947,7 @@
 盘	pci
 朱	jde
 演	nve
-虚	dji
+虚	djii
 呆	siu
 付	jje
 笔	lwo
@@ -1073,7 +1073,7 @@
 伦	jao
 灭	jpro
 席	dyi
-莱	fwio
+莱	fdio
 编	xt
 益	afi
 呵	kgei
@@ -1572,7 +1572,7 @@
 愁	cpru
 霍	pm
 俄	jwoe
-侠	jwor
+侠	jwer
 帕	ydoiu
 哀	gjo
 抚	gjeo
@@ -1606,7 +1606,7 @@
 讶	sae
 暖	wyee
 聪	ykr
-夹	wd
+夹	wer
 赖	zd
 筑	llo
 炎	ppro
@@ -2082,7 +2082,7 @@
 妥	ymu
 卜	lir
 舅	tgu
-颊	wde
+颊	wneo
 敦	gsoe
 喉	kjue
 苗	fg
@@ -2319,7 +2319,7 @@
 匠	vqoo
 怡	hciuee
 晰	wto
-峡	ywo
+峡	ywe
 焉	kqrr
 杭	tbo
 旨	nwiue
@@ -2438,7 +2438,7 @@
 携	gmu
 履	zfo
 挪	gsuiii
-狭	pwor
+狭	pwer
 轨	ygou
 茅	fhur
 坟	lnre
@@ -2547,7 +2547,7 @@
 棺	tvi
 狡	pqor
 妓	mpu
-昧	wdee
+昧	wd
 萄	dyo
 呻	kwii
 盔	dpi
@@ -2806,7 +2806,7 @@
 炒	pvio
 氧	vkro
 逮	cnr
-挟	gwor
+挟	gwer
 菩	fhiu
 匕	nou
 猿	pno
@@ -2882,7 +2882,7 @@
 谜	sqr
 狈	pdiuo
 咏	kjuu
-陕	ywor
+陕	ywer
 肘	hjeirr
 梢	tci
 诛	sjee
@@ -2995,7 +2995,7 @@
 瞟	bt
 褐	hwouor
 戟	xkeu
-峨	ywoe
+峨	ywo
 嬷	myo
 犀	znoe
 寥	vyo
@@ -3473,7 +3473,7 @@
 葵	fyeeo
 忡	hviuei
 孜	snoeo
-隧	ywe
+隧	yweo
 陨	ykiuo
 崭	yyo
 勺	kjrr
@@ -3730,7 +3730,7 @@
 霭	psiue
 痊	ldee
 唰	kziu
-麾	ywoee
+麾	ywoe
 嗟	kkeie
 喋	kdue
 臻	glo
@@ -4226,7 +4226,7 @@
 釜	lnro
 赈	dyeoe
 耷	kyeii
-睐	bwio
+睐	bdj
 捍	gwee
 佗	jvou
 踊	ztu
@@ -4670,7 +4670,7 @@
 鲶	dqr
 蛐	bai
 爿	kui
-浃	nwor
+浃	nwer
 诿	scuo
 祢	haoui
 祚	hzoe
@@ -4712,7 +4712,7 @@
 镳	vmr
 豕	heou
 碉	dsei
-荚	fwor
+荚	fwer
 溥	nfeir
 咩	kkroe
 僭	jneu
@@ -4997,7 +4997,7 @@
 篑	lliuo
 潋	nqr
 汜	ngue
-徕	fwior
+徕	fdj
 孬	hmui
 唳	kteo
 酡	tvouu
@@ -5125,7 +5125,7 @@
 徉	fkro
 陟	yhio
 钨	vkue
-蛱	bwor
+蛱	bwer
 竽	laeei
 枞	tforo
 搴	hnoee
@@ -5269,7 +5269,7 @@
 樯	tpro
 骝	apiuei
 郗	hdiuiu
-赉	wniuo
+赉	djoi
 蝈	bkeei
 薏	fmru
 萸	ftor
@@ -5565,7 +5565,7 @@
 筇	llui
 瓤	bheeii
 溷	nkeo
-涞	nwio
+涞	ndj
 堀	lzui
 龅	hkueuu
 骶	mmrr
@@ -5646,7 +5646,7 @@
 筲	lciue
 椋	tlre
 撄	gdiuo
-崃	ywio
+崃	ydj
 傈	jteior
 黼	jqe
 陉	ypure
@@ -5688,7 +5688,7 @@
 倥	jdeie
 髁	mwe
 酹	tyeir
-郏	wdui
+郏	wyu
 贶	dkou
 芫	flou
 罍	ggiue
@@ -5697,7 +5697,7 @@
 穑	cpro
 祇	hmou
 碚	dhiue
-瘗	lwor
+瘗	lweie
 琚	sze
 珙	spei
 枋	tmre
@@ -5774,7 +5774,7 @@
 苡	fbur
 芰	fpurr
 祆	hfoeo
-硖	dwor
+硖	dwer
 獬	phuoo
 柽	tfei
 厍	ayeu
@@ -5981,7 +5981,7 @@
 陔	yhre
 鏊	kvor
 酤	tveiiu
-貊	djoi
+貊	djoiu
 蚺	bsei
 薤	fbie
 荽	fyuo
@@ -6052,7 +6052,7 @@
 鹩	kwiue
 髑	mcou
 骟	atur
-铗	vwor
+铗	vwer
 鋈	nfor
 醌	tweuo
 蚍	bmeu
@@ -6762,7 +6762,7 @@
 阌	fyurr
 镡	vtiue
 镙	vguu
-铼	vwio
+铼	vdj
 钬	vproo
 醭	tjroe
 醨	tqiuu
@@ -7089,7 +7089,7 @@
 敔	jkoe
 攉	gpoi
 捯	ggii
-慭	wneor
+慭	djoeo
 惎	glru
 悢	hjue
 廾	neoi
@@ -7123,7 +7123,7 @@
 钪	vbou
 钆	vpuuu
 銎	laro
-鄫	wyu
+鄫	wyui
 邲	ljui
 迺	trru
 蹢	zhiuei
@@ -7734,7 +7734,7 @@
 榃	mgiue
 楪	tdue
 椪	taii
-梾	twio
+梾	tdj
 梣	tyorr
 梌	tqei
 栴	tviu
@@ -7832,7 +7832,7 @@
 僔	jdeir
 偡	jguu
 倻	jyuiii
-俫	jwio
+俫	jdj
 侹	jsurr
 佸	jnoei
 佁	jciuee
@@ -7932,7 +7932,7 @@
 𬇙	ndiuo
 𬇕	nweu
 𬃊	taeiiu
-𬂩	twor
+𬂩	twer
 𬀪	wfiuo
 𬀩	wjeeu
 𫸩	xmeo
@@ -7951,7 +7951,7 @@
 𫠆	pfeo
 𫟼	vkrur
 𫟹	vpeii
-𫟦	yweo
+𫟦	yweou
 𫟅	xlreiu
 𫞩	sfeiuo
 𫛭	psou
@@ -8109,7 +8109,7 @@
 杄	tnoei
 朸	twuo
 暿	waiu
-暶	wduie
+暶	wdui
 晪	waor
 昣	wdo
 旞	dweou

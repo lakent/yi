@@ -9,7 +9,7 @@
 人	dorrrr
 有	dhiuee
 这	nrrurr
-来	wniorr
+来	djoooo
 你	jaouio
 个	djiiii
 上	lieeee
@@ -1073,7 +1073,7 @@
 伦	jaorou
 灭	jproor
 席	dyiuii
-莱	fwiorr
+莱	fdiorr
 编	xtiuei
 益	afiuii
 呵	kgeiue
@@ -1572,7 +1572,7 @@
 愁	cprurr
 霍	pmoire
 俄	jwoeie
-侠	jworrr
+侠	jweroe
 帕	ydoiue
 哀	gjouor
 抚	gjeouu
@@ -1606,7 +1606,7 @@
 讶	saeuio
 暖	wyeeou
 聪	ykrurr
-夹	wdorrr
+夹	weroeo
 赖	zdiuor
 筑	llourr
 炎	pproor
@@ -2082,7 +2082,7 @@
 妥	ymuoee
 卜	lirrrr
 舅	tguooo
-颊	wdeoiu
+颊	wneoiu
 敦	gsoeor
 喉	kjueoe
 苗	fgiuei
@@ -2319,7 +2319,7 @@
 匠	vqooei
 怡	hciuee
 晰	wtooei
-峡	yworrr
+峡	yweroe
 焉	kqrrrr
 杭	tbouuu
 旨	nwiuee
@@ -2438,7 +2438,7 @@
 携	gmuooo
 履	zfoeiu
 挪	gsuiii
-狭	pworrr
+狭	pweroe
 轨	ygouuu
 茅	fhurui
 坟	lnreor
@@ -2806,7 +2806,7 @@
 炒	pvioro
 氧	vkroee
 逮	cnrurr
-挟	gworrr
+挟	gweroe
 菩	fhiuee
 匕	nouuuu
 猿	pnouor
@@ -2882,7 +2882,7 @@
 谜	sqrurr
 狈	pdiuor
 咏	kjuuor
-陕	yworrr
+陕	yweroe
 肘	hjeirr
 梢	tciuee
 诛	sjeeio
@@ -4226,7 +4226,7 @@
 釜	lnroee
 赈	dyeoee
 耷	kyeiie
-睐	bwiorr
+睐	bdjooo
 捍	gweeii
 佗	jvouuu
 踊	zturiu
@@ -4670,7 +4670,7 @@
 鲶	dqrurr
 蛐	baiuei
 爿	kuieoo
-浃	nworrr
+浃	nweroe
 诿	scuoee
 祢	haouio
 祚	hzoeie
@@ -4712,7 +4712,7 @@
 镳	vmrrrr
 豕	heouoo
 碉	dseiei
-荚	fworrr
+荚	fweroe
 溥	nfeirr
 咩	kkroee
 僭	jneuou
@@ -4997,7 +4997,7 @@
 篑	lliuor
 潋	nqrroe
 汜	ngueuu
-徕	fwiorr
+徕	fdjooo
 孬	hmuiee
 唳	kteorr
 酡	tvouuu
@@ -5125,7 +5125,7 @@
 徉	fkroee
 陟	yhiooo
 钨	vkueee
-蛱	bworrr
+蛱	bweroe
 竽	laeeii
 枞	tforor
 搴	hnoeei
@@ -5269,7 +5269,7 @@
 樯	tproei
 骝	apiuei
 郗	hdiuiu
-赉	wniuor
+赉	djoiuo
 蝈	bkeeie
 薏	fmrurr
 萸	ftorrr
@@ -5565,7 +5565,7 @@
 筇	lluiii
 瓤	bheeii
 溷	nkeouo
-涞	nwiorr
+涞	ndjooo
 堀	lzuiiu
 龅	hkueuu
 骶	mmrrrr
@@ -5646,7 +5646,7 @@
 筲	lciuee
 椋	tlreiu
 撄	gdiuor
-崃	ywiorr
+崃	ydjooo
 傈	jteior
 黼	jqeiue
 陉	ypurei
@@ -5688,7 +5688,7 @@
 倥	jdeiee
 髁	mweior
 酹	tyeirr
-郏	wduiii
+郏	wyuiii
 贶	dkouuu
 芫	flouuu
 罍	ggiuei
@@ -5697,7 +5697,7 @@
 穑	cproei
 祇	hmoueu
 碚	dhiuee
-瘗	lworei
+瘗	lweiee
 琚	szeiiu
 珙	speiie
 枋	tmreuo
@@ -5774,7 +5774,7 @@
 苡	fburor
 芰	fpurrr
 祆	hfoeor
-硖	dworrr
+硖	dweroe
 獬	phuooe
 柽	tfeiee
 厍	ayeuei
@@ -6052,7 +6052,7 @@
 鹩	kwiuee
 髑	mcouiu
 骟	atureu
-铗	vworrr
+铗	vweroe
 鋈	nforee
 醌	tweuou
 蚍	bmeuou
@@ -6762,7 +6762,7 @@
 阌	fyurrr
 镡	vtiuee
 镙	vguuri
-铼	vwiorr
+铼	vdjooo
 钬	vproor
 醭	tjroee
 醨	tqiuur
@@ -7089,7 +7089,7 @@
 敔	jkoeor
 攉	gpoire
 捯	ggiiii
-慭	wneorr
+慭	djoeor
 惎	glrurr
 悢	hjueeu
 廾	neoiii
@@ -7734,7 +7734,7 @@
 榃	mgiuei
 楪	tdueio
 椪	taiiro
-梾	twiorr
+梾	tdjooo
 梣	tyorru
 梌	tqeior
 栴	tviure
@@ -7832,7 +7832,7 @@
 僔	jdeirr
 偡	jguuuu
 倻	jyuiii
-俫	jwiorr
+俫	jdjooo
 侹	jsurrr
 佸	jnoeii
 佁	jciuee
@@ -7932,7 +7932,7 @@
 𬇙	ndiuor
 𬇕	nweuoo
 𬃊	taeiiu
-𬂩	tworrr
+𬂩	tweroe
 𬀪	wfiuou
 𬀩	wjeeui
 𫸩	xmeoru
