@@ -4226,7 +4226,7 @@
 釜	lnro
 赈	dyeoe
 耷	kyeii
-睐	bdw
+睐	bdr
 捍	gwee
 佗	jvou
 踊	ztu
@@ -4997,7 +4997,7 @@
 篑	lliuo
 潋	nqr
 汜	ngue
-徕	fdw
+徕	fdroo
 孬	hmui
 唳	kteo
 酡	tvouu
@@ -5565,7 +5565,7 @@
 筇	llui
 瓤	bheeii
 溷	nkeo
-涞	ndw
+涞	ndro
 堀	lzui
 龅	hkueuu
 骶	mmrr
@@ -5646,7 +5646,7 @@
 筲	lciue
 椋	tlre
 撄	gdiuo
-崃	ydw
+崃	ydro
 傈	jteior
 黼	jqe
 陉	ypure
@@ -6648,7 +6648,7 @@
 觱	klou
 觋	lfiuou
 蠛	bweo
-蝤	bdr
+蝤	bdro
 虼	bvuu
 蔸	fdoiue
 茈	ftiei
@@ -6762,7 +6762,7 @@
 阌	fyurr
 镡	vtiue
 镙	vguu
-铼	vdw
+铼	vdro
 钬	vproo
 醭	tjroe
 醨	tqiuu
@@ -7734,7 +7734,7 @@
 榃	mgiue
 楪	tdue
 椪	taii
-梾	tdw
+梾	tdro
 梣	tyorr
 梌	tqei
 栴	tviu
@@ -7832,7 +7832,7 @@
 僔	jdeir
 偡	jguu
 倻	jyuiii
-俫	jdw
+俫	jdro
 侹	jsurr
 佸	jnoei
 佁	jciuee
@@ -7892,7 +7892,7 @@
 𬬩	vkeur
 𬪩	tlruo
 𬩽	cjui
-𬨎	ydro
+𬨎	ydroe
 𬨂	ymou
 𬤝	sjiuee
 𬤊	ssiuee

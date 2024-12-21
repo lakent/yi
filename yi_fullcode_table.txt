@@ -9,7 +9,7 @@
 人	dorrrr
 有	dhiuee
 这	nrrurr
-来	dwoooo
+来	dwrooo
 你	jaouio
 个	djiiii
 上	lieeee
@@ -4226,7 +4226,7 @@
 釜	lnroee
 赈	dyeoee
 耷	kyeiie
-睐	bdwooo
+睐	bdrooo
 捍	gweeii
 佗	jvouuu
 踊	zturiu
@@ -4997,7 +4997,7 @@
 篑	lliuor
 潋	nqrroe
 汜	ngueuu
-徕	fdwooo
+徕	fdrooo
 孬	hmuiee
 唳	kteorr
 酡	tvouuu
@@ -5565,7 +5565,7 @@
 筇	lluiii
 瓤	bheeii
 溷	nkeouo
-涞	ndwooo
+涞	ndrooo
 堀	lzuiiu
 龅	hkueuu
 骶	mmrrrr
@@ -5646,7 +5646,7 @@
 筲	lciuee
 椋	tlreiu
 撄	gdiuor
-崃	ydwooo
+崃	ydrooo
 傈	jteior
 黼	jqeiue
 陉	ypurei
@@ -6762,7 +6762,7 @@
 阌	fyurrr
 镡	vtiuee
 镙	vguuri
-铼	vdwooo
+铼	vdrooo
 钬	vproor
 醭	tjroee
 醨	tqiuur
@@ -7734,7 +7734,7 @@
 榃	mgiuei
 楪	tdueio
 椪	taiiro
-梾	tdwooo
+梾	tdrooo
 梣	tyorru
 梌	tqeior
 栴	tviure
@@ -7832,7 +7832,7 @@
 僔	jdeirr
 偡	jguuuu
 倻	jyuiii
-俫	jdwooo
+俫	jdrooo
 侹	jsurrr
 佸	jnoeii
 佁	jciuee
