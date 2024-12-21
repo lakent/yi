@@ -7285,7 +7285,7 @@
 甡	ggoee
 甗	dleuu
 瑀	sjiu
-珽	sjeie
+珽	ssur
 玼	stiei
 獴	pweeou
 猺	pyoe
@@ -7449,7 +7449,7 @@
 瓖	sbiu
 璲	sweo
 琄	skiuee
-珷	sjeiei
+珷	sjeie
 珫	sxou
 珝	syure
 玱	sduu
@@ -7913,7 +7913,7 @@
 𬘭	xmei
 𬘬	xhee
 𬘫	xveeo
-𬘩	xjeie
+𬘩	xsur
 𬘡	xqiue
 𬘘	xqou
 𬘓	xwo
