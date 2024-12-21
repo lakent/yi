@@ -406,7 +406,7 @@
 兴	mforrr
 紧	mduuri
 兵	qforrr
-办	wforrr
+办	wfrrrr
 展	zpuorr
 始	mciuee
 八	forrrr
@@ -1861,7 +1861,7 @@
 豆	heiuer
 寸	jeirrr
 誉	mfreee
-串	vkiuee
+串	vkiuei
 割	vxiuei
 腹	hviuee
 驱	ameoru
@@ -2653,7 +2653,7 @@
 稽	cxroui
 贩	daurrr
 溅	ndeeuo
-喀	kvourr
+喀	kvouri
 巢	wweior
 胤	jpiuee
 琉	sxoiuu
@@ -2765,7 +2765,7 @@
 憎	hwroiu
 吨	kbeuiu
 删	sseiii
-寝	vzueeu
+寝	vzueer
 彷	fmreuo
 圾	lsourr
 旷	wareoo
@@ -3162,7 +3162,7 @@
 橘	thiuor
 棱	tlorou
 擂	gpiuei
-姗	msiuee
+姗	msouee
 帜	ykorrr
 蹬	zyeiue
 跺	zaeior
@@ -4762,7 +4762,7 @@
 赍	pfruiu
 萋	fjueei
 犒	cgiuee
-幂	qweorr
+幂	qweori
 饽	pbuiee
 邈	ddouru
 螓	bloeio
@@ -6299,7 +6299,7 @@
 缳	xlouor
 篚	lvieee
 禋	hteiee
-硎	dneeoi
+硎	dniiii
 砉	xdeoiu
 眊	bwoeeu
 瘳	lyoroo
@@ -6349,7 +6349,7 @@
 厣	apiuee
 倬	jliuee
 乂	horrrr
-龢	chiuei
+龢	qhiuei
 龁	hvuuuu
 鼯	tjiuee
 黟	xbourr
@@ -7089,12 +7089,12 @@
 敔	jkoeor
 攉	gpoire
 捯	ggiiii
-慭	dreorr
+慭	dweorr
 惎	glrurr
 悢	hjueeu
 廾	neoiii
 帡	yaeoii
-嬿	mdiuer
+嬿	mdiuei
 塅	lgoiee
 垞	lvoeuu
 坶	lvuure
@@ -7330,7 +7330,7 @@
 悆	qtrurr
 弸	xhouee
 弆	wneoii
-嶲	ymiuii
+嶲	ymiuiu
 嶓	ymiuei
 嵁	yguuuu
 崞	yguiee
@@ -7350,7 +7350,7 @@
 噂	kdeirr
 啴	khroiu
 哿	tgeiue
-哱	kpruui
+哱	kbuiee
 匼	vcorei
 匜	vduiuu
 勔	hwuooo
@@ -7403,7 +7403,7 @@
 襫	hkeoiu
 褟	hwureu
 袯	hxuour
-衃	gjiuii
+衃	jceoir
 螵	bteeio
 螱	zseiri
 螠	baoriu
@@ -7842,7 +7842,7 @@
 𬺈	hkeiue
 𬹼	hdoiii
 𬸪	mgouru
-𬸦	dmouru
+𬸦	dvouru
 𬸣	hfouru
 𬸚	pseorr
 𬸘	vwuoeo
@@ -7938,7 +7938,7 @@
 𫸩	xmeoru
 𫷷	avouor
 𫶇	yfruiu
-𫵷	yaeuoo
+𫵷	yauooo
 𫰛	mpurei
 𫮃	lhroiu
 𫭼	lwuooo
