@@ -747,7 +747,7 @@
 顾	ageoiu
 否	hkiuee
 值	jheiiu
-考	fqeuee
+考	fweuuu
 冰	wniuor
 境	lmouuu
 妹	mdeeio
@@ -1073,7 +1073,7 @@
 伦	jaorou
 灭	jproor
 席	dyiuii
-莱	fdiorr
+莱	fdrooo
 编	xtiuei
 益	afiuii
 呵	kgeiue
@@ -4642,7 +4642,7 @@
 蚯	bqoiei
 纾	xhurui
 孱	zsuieu
-驷	akouuu
+驷	aciuou
 畹	gvouru
 滓	nvrero
 傥	jcouuu
@@ -5690,7 +5690,7 @@
 酹	tyeirr
 郏	wyuiii
 贶	dkouuu
-芫	flouuu
+芫	fleeou
 罍	ggiuei
 絷	dduuri
 絜	xsuuri
@@ -6296,7 +6296,7 @@
 芾	fjiuii
 胂	hwiiii
 耜	dhiueu
-缳	xlouor
+缳	xceiue
 篚	lvieee
 禋	hteiee
 硎	dniiii
@@ -7146,7 +7146,7 @@
 繄	vvouur
 窎	dfouru
 稌	cqeior
-禔	hwiuee
+禔	hsiuee
 祕	hloooo
 祏	hdeoiu
 磉	dfurur
@@ -7578,7 +7578,7 @@
 訄	gsreee
 觍	afiuou
 觃	fsuiee
-褯	haeiie
+褯	hdiuii
 袴	hkeeuu
 蠧	bdiuei
 蟓	bwouiu
