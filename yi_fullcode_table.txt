@@ -83,7 +83,7 @@
 什	jpeiii
 所	avooei
 方	mreuoo
-现	sfouuu
+现	sfiuou
 经	xpurei
 见	fiuouu
 成	ktuuuu
@@ -2645,7 +2645,7 @@
 蛛	bjeeio
 瓷	pjeuur
 粹	qboror
-尧	peuoee
+尧	peuoeo
 渺	nbioro
 暇	wqueie
 冈	shorrr
@@ -3214,7 +3214,7 @@
 凿	jkuiii
 甄	tleuur
 弛	xduiuu
-噩	skiuei
+噩	shiuei
 洽	ncorei
 渝	nqiuee
 蟹	hsoeei
@@ -4410,7 +4410,7 @@
 咤	kvoeuu
 佻	jxreor
 缇	xsiuee
-睾	jceiee
+睾	jceier
 垭	lseiir
 卅	jwoiii
 讫	svuuuu
@@ -4558,7 +4558,7 @@
 銮	pvoree
 辎	ywiuei
 釉	maiuei
-玳	sjeurr
+玳	sboieu
 旎	dzouuu
 叵	vkiuee
 陂	yzuoiu
@@ -6341,7 +6341,7 @@
 洫	njiuii
 沩	njourr
 桫	tnioro
-朊	hyouuu
+朊	hleeou
 憷	hmuieo
 惝	hciuiu
 嶒	ywroiu
@@ -7323,7 +7323,7 @@
 昫	wkiuee
 摴	gpeeuu
 搌	gzeiie
-揞	ghiuee
+揞	gmrero
 扅	tbourr
 戤	wfiuii
 憭	hkroiu
@@ -8148,7 +8148,7 @@
 䶮	lfeeor
 䴙	bfouru
 䴘	adouou
-䴗	wpouru
+䴗	bpouru
 䴖	hfouru
 䴕	bnouru
 䴔	qhouru
@@ -8201,7 +8201,7 @@
 㭕	tweieu
 㭎	tsorrr
 㬚	wxiuee
-㬎	wpruur
+㬎	wpuurr
 㬊	wyeeou
 㫰	wjueeu
 㧟	gneuuu

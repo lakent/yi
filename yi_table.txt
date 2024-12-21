@@ -3214,7 +3214,7 @@
 凿	jku
 甄	tleu
 弛	xduiu
-噩	skiue
+噩	shiu
 洽	ncor
 渝	nqiu
 蟹	hsoe
@@ -3654,7 +3654,7 @@
 懿	bhre
 恻	hdii
 岐	ypur
-谛	shiu
+谛	shiui
 浚	ncoro
 凋	wsei
 甥	gguo
@@ -4558,7 +4558,7 @@
 銮	pvor
 辎	ywiue
 釉	maiu
-玳	sjeu
+玳	sboi
 旎	dzouu
 叵	vkiuee
 陂	yzuoi
@@ -4928,7 +4928,7 @@
 隗	ysoiu
 讵	svue
 痔	lleir
-珣	skiuee
+珣	skiue
 梏	tjoe
 撺	gdiu
 苣	fvue
@@ -6341,7 +6341,7 @@
 洫	njiui
 沩	njour
 桫	tnio
-朊	hyou
+朊	hlee
 憷	hmuie
 惝	hciui
 嶒	ywr
@@ -6535,7 +6535,7 @@
 虓	gdou
 萑	fmoi
 茇	fdurr
-腠	hlee
+腠	hleeo
 糌	qnir
 箦	lxiu
 筅	lgoe
@@ -7323,7 +7323,7 @@
 昫	wkiue
 摴	gpee
 搌	gzei
-揞	ghiuee
+揞	gmre
 扅	tbou
 戤	wfiu
 憭	hkroi
@@ -8023,7 +8023,7 @@
 𥔲	dheeu
 𤫉	ssroo
 𤩽	spiuro
-𤧛	shiui
+𤧛	shiuii
 𣸣	npeiii
 𣲘	njeou
 𣲗	njeeu
@@ -8148,7 +8148,7 @@
 䶮	lfee
 䴙	bfou
 䴘	adouo
-䴗	wpour
+䴗	bpou
 䴖	hfouru
 䴕	bnou
 䴔	qhou
@@ -8201,7 +8201,7 @@
 㭕	tweieu
 㭎	tsorr
 㬚	wxi
-㬎	wpru
+㬎	wpuu
 㬊	wyeeou
 㫰	wjue
 㧟	gneu
