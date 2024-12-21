@@ -9,9 +9,9 @@
 人	do
 有	dh
 这	nr
-来	dj
+来	dw
 你	ja
-个	dji
+个	dj
 上	li
 到	gn
 大	ke
@@ -520,7 +520,7 @@
 巴	gui
 帮	xy
 终	xnr
-势	dw
+势	dwu
 娘	mj
 热	dnr
 显	wji
@@ -947,7 +947,7 @@
 盘	pci
 朱	jde
 演	nve
-虚	djii
+虚	dji
 呆	siu
 付	jje
 笔	lwo
@@ -1424,7 +1424,7 @@
 仔	jsui
 恢	hdr
 乘	czie
-穷	dwu
+穷	dwuo
 映	wse
 皆	mdo
 扶	gjee
@@ -2710,7 +2710,7 @@
 拚	gce
 翩	tlu
 婢	mdoi
-虏	dwuo
+虏	dwuoo
 澄	nyei
 乍	zoei
 沸	nxoi
@@ -4226,7 +4226,7 @@
 釜	lnro
 赈	dyeoe
 耷	kyeii
-睐	bdj
+睐	bdw
 捍	gwee
 佗	jvou
 踊	ztu
@@ -4997,7 +4997,7 @@
 篑	lliuo
 潋	nqr
 汜	ngue
-徕	fdj
+徕	fdw
 孬	hmui
 唳	kteo
 酡	tvouu
@@ -5269,7 +5269,7 @@
 樯	tpro
 骝	apiuei
 郗	hdiuiu
-赉	djoi
+赉	dwiuo
 蝈	bkeei
 薏	fmru
 萸	ftor
@@ -5565,7 +5565,7 @@
 筇	llui
 瓤	bheeii
 溷	nkeo
-涞	ndj
+涞	ndw
 堀	lzui
 龅	hkueuu
 骶	mmrr
@@ -5646,7 +5646,7 @@
 筲	lciue
 椋	tlre
 撄	gdiuo
-崃	ydj
+崃	ydw
 傈	jteior
 黼	jqe
 陉	ypure
@@ -5981,7 +5981,7 @@
 陔	yhre
 鏊	kvor
 酤	tveiiu
-貊	djoiu
+貊	djoi
 蚺	bsei
 薤	fbie
 荽	fyuo
@@ -6762,7 +6762,7 @@
 阌	fyurr
 镡	vtiue
 镙	vguu
-铼	vdj
+铼	vdw
 钬	vproo
 醭	tjroe
 醨	tqiuu
@@ -7089,7 +7089,7 @@
 敔	jkoe
 攉	gpoi
 捯	ggii
-慭	djoeo
+慭	dre
 惎	glru
 悢	hjue
 廾	neoi
@@ -7603,7 +7603,7 @@
 脟	hyeirr
 脎	hheio
 胈	hdurrr
-耢	dwuoo
+耢	dwuooo
 耠	dcor
 耖	dvior
 翷	qbeui
@@ -7734,7 +7734,7 @@
 榃	mgiue
 楪	tdue
 椪	taii
-梾	tdj
+梾	tdw
 梣	tyorr
 梌	tqei
 栴	tviu
@@ -7832,7 +7832,7 @@
 僔	jdeir
 偡	jguu
 倻	jyuiii
-俫	jdj
+俫	jdw
 侹	jsurr
 佸	jnoei
 佁	jciuee
