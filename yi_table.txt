@@ -5234,7 +5234,7 @@
 垟	lkroe
 砦	tdeoi
 椴	tgoi
-麴	pdou
+麴	pdoro
 蜮	bkiuee
 眬	bleo
 痼	lkeii
@@ -7289,7 +7289,7 @@
 玼	stiei
 獴	pweeou
 猺	pyoe
-猇	pdouu
+猇	pdou
 猃	pqrr
 狉	pheee
 牁	kgeiu
