@@ -7888,7 +7888,7 @@
 𬬸	vtr
 𬬱	vqooe
 𬬮	vboe
-𬬭	vdou
+𬬭	vaoro
 𬬩	vkeur
 𬪩	tlruo
 𬩽	cjui
@@ -7942,7 +7942,7 @@
 𫰛	mpur
 𫮃	lhroiu
 𫭼	lwuooo
-𫭢	ldouu
+𫭢	laor
 𫭟	lmeo
 𫫇	ksru
 𫢸	jhro
