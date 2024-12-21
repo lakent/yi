@@ -1861,7 +1861,7 @@
 豆	heiu
 寸	jeir
 誉	mfr
-串	kvi
+串	vkiue
 割	vxiu
 腹	hviu
 驱	ame
@@ -1901,7 +1901,7 @@
 苑	fbu
 捷	gju
 摘	ghiu
-吵	kvio
+吵	kvi
 辩	nsre
 魏	cmo
 咐	kjeir
@@ -3198,7 +3198,7 @@
 檀	tbi
 寰	vce
 骸	mhre
-铝	vkiue
+铝	vkiuee
 饲	pte
 铮	vbo
 辐	yliue
