@@ -623,7 +623,7 @@
 杨	ttoooo
 谢	szeirr
 脑	hqreor
-病	lforor
+病	lforrr
 顿	bneoiu
 治	nciuee
 福	hliuei
@@ -1861,7 +1861,7 @@
 豆	heiuer
 寸	jeirrr
 誉	mfreee
-串	vkiuei
+串	vkiuee
 割	vxiuei
 腹	hviuee
 驱	ameoru
@@ -5295,7 +5295,7 @@
 菅	fviueu
 肓	xhiuee
 砀	dtoooo
-墒	lhiuei
+墒	lhiuor
 嚯	kpoire
 珲	sqeuei
 沭	ntrrrr
@@ -5773,7 +5773,7 @@
 菹	ybiuee
 苡	fburor
 芰	fpurrr
-祆	hfoeor
+祆	hfeeor
 硖	dweroe
 獬	phuooe
 柽	tfeiee
@@ -6128,7 +6128,7 @@
 茌	pleiee
 脶	hkiuor
 笾	lwrurr
-瞢	wbiuee
+瞢	wqiuee
 燹	hhroor
 殳	douurr
 挢	gfoiii
@@ -6182,7 +6182,7 @@
 罽	caroor
 祼	hweior
 矬	vfeiee
-癃	lyouro
+癃	lyoure
 畛	gdoooo
 畎	gpeorr
 焓	pqiuee
@@ -7504,7 +7504,7 @@
 媄	mkeorr
 婳	mjiuei
 姽	mhuuuu
-墚	lnuoei
+墚	lnuorr
 墈	lguuoo
 塥	lleiue
 塝	lhreuo
@@ -7726,7 +7726,7 @@
 汈	nteeee
 氕	vjoooo
 毑	vduiuu
-毌	vuueii
+毌	vuuiee
 歔	djouor
 歅	tlouor
 櫆	tsrrei
@@ -7799,7 +7799,7 @@
 妭	mdurrr
 妘	mmeeur
 墣	ljroee
-墘	lxeouu
+墘	lxoeuu
 堽	lceiei
 堼	hjeiee
 堧	lyeorr
@@ -8159,7 +8159,7 @@
 䦃	vfeieo
 䥽	vxuour
 䣘	cluiii
-䢼	pyuuii
+䢼	pyuiii
 䢺	ysuiii
 䝙	dmeoru
 䗴	bloeie

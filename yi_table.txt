@@ -5295,7 +5295,7 @@
 菅	fviu
 肓	xhiue
 砀	dto
-墒	lhiue
+墒	lhiuo
 嚯	kpo
 珲	sqeu
 沭	ntrr
@@ -5773,7 +5773,7 @@
 菹	ybiuee
 苡	fbur
 芰	fpurr
-祆	hfoeo
+祆	hfee
 硖	dwer
 獬	phuoo
 柽	tfei
@@ -5902,7 +5902,7 @@
 旻	wnre
 拶	gwourr
 悛	hcorou
-怿	hfee
+怿	hfeei
 嵊	ycie
 佤	jjeuu
 黾	kwuuu
@@ -6128,7 +6128,7 @@
 茌	plei
 脶	hkiuo
 笾	lwru
-瞢	wbiuee
+瞢	wqiue
 燹	hhroo
 殳	douu
 挢	gfoii
@@ -7726,7 +7726,7 @@
 汈	nteee
 氕	vjoo
 毑	vduiuu
-毌	vuue
+毌	vuui
 歔	djou
 歅	tlou
 櫆	tsrr
@@ -7799,7 +7799,7 @@
 妭	mdur
 妘	mmee
 墣	ljro
-墘	lxeo
+墘	lxo
 堽	lcei
 堼	hjeie
 堧	lyeo
@@ -8159,7 +8159,7 @@
 䦃	vfeieo
 䥽	vxuo
 䣘	clu
-䢼	pyuuii
+䢼	pyuii
 䢺	ysuiii
 䝙	dmeo
 䗴	bloei
