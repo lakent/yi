@@ -3,40 +3,38 @@
 
 import sys
 
-shortcode = []
-fullcode = []
-etymon = []
+SHORTCODE_USED = []
+FULL_CODE_LIST = []
+COMPONENT_MAP = []
 
 
-def fname(arg):
-    for x in range(len(etymon)):
-        z = etymon[x][0]
-        if z == arg:
-            return etymon[x][1]
+def get_key_from_component(component):
+    for item in COMPONENT_MAP:
+        if item[0] == component:
+            return item[1]
     return ''
 
-def scode(code, index, max_len):
-
+def generate_shortcode(code, index, max_len):
     currentCode = code[0:index]
     
-    if currentCode in shortcode and index <= max_len:
-        return scode(code, index + 1, max_len)
+    if currentCode in SHORTCODE_USED and index <= max_len:
+        return generate_shortcode(code, index + 1, max_len)
     elif index > max_len:
         return code 
     else:
-        shortcode.append(currentCode)
+        SHORTCODE_USED.append(currentCode)
         return currentCode
 
-def translatesCode(dic, etymon):
-    global fullcode
-    fullcode = []
-    for item in dic:
-        s = ''.join([fname(ch) for ch in item[1]])
+def generate_full_codes(REPERTOIRE_LIST):
+    global FULL_CODE_LIST
+    FULL_CODE_LIST = []
+    for item in REPERTOIRE_LIST:
+        s = ''.join([get_key_from_component(ch) for ch in item[1]])
         new_item = [item[0], s]
-        fullcode.append(new_item)
-    return fullcode
+        FULL_CODE_LIST.append(new_item)
+    return FULL_CODE_LIST
 
-def readTable(path):
+def read_tab_delimited_file(path):
     try:
         readContent = []
         with open(path, 'r', encoding='utf-8') as f:
@@ -50,39 +48,39 @@ def readTable(path):
         print(f"Error reading {path}: {e}")
         return []
 
-def readCharFreq(path):
-    char_rank = {}
+def create_character_order_map(path):
+    char_order = {}
     try:
-        rank = 0
+        order_index = 0
         with open(path, 'r', encoding='utf-8') as f:
             for line in f:
                 l = line.split('\t')
                 if l and l[0].strip():
                     character = l[0].strip()
-                    char_rank[character] = rank
-                    rank += 1
-        return char_rank
+                    char_order[character] = order_index
+                    order_index += 1
+        return char_order
     except Exception as e:
         print(f"Error reading {path}: {e}")
         return {}
 
-def writeFullTable(path):
+def write_full_code_table(path):
     try:
         with open(path, "w", encoding='utf-8') as table_file:
-            for i in fullcode:
+            for i in FULL_CODE_LIST:
                 character = i[0]
                 code = i[1]
                 table_file.write(f"{character}\t{code}\n")
     except Exception as e:
         print(f"Error writing full code table: {e}")
 
-def writeShortTable(path, max_len):
+def write_short_code_table(path, max_len):
     try:
         with open(path, "w", encoding='utf-8') as table_file:
-            for i in fullcode:
+            for i in FULL_CODE_LIST:
                 character = i[0]
                 code = i[1]
-                short_code = scode(code, 2, max_len)
+                short_code = generate_shortcode(code, 2, max_len)
                 table_file.write(f"{character}\t{short_code}\n")
     except Exception as e:
         print(f"Error writing short code table: {e}")
@@ -90,36 +88,36 @@ def writeShortTable(path, max_len):
 
 if __name__ == '__main__':
     
-    YI_COMPONENTS_MAPPING_PATH = 'yi_components_mapping.txt'
-    YI_SPELLING_PATH = 'yi_spelling.txt'
-    CUSTOM_FREQ_PATH = 'char_freq.txt'
+    COMPONENT_MAPPING_PATH = 'yi_components_mapping.txt'
+    CHAR_REPERTOIRE_PATH = 'yi_spelling.txt'
+    CHARACTER_ORDER_PATH = 'char_freq.txt'
+    
     FULLCODE_TABLE_PATH = 'yi_fullcode_table.txt'
     SHORTCODE_TABLE_PATH = 'yi_table.txt'
     
     MAX_SHORTCODE_LENGTH = 6
     
-    etymon = readTable(YI_COMPONENTS_MAPPING_PATH)
-    print(f"Read components mapping file: {YI_COMPONENTS_MAPPING_PATH}")
+    COMPONENT_MAP = read_tab_delimited_file(COMPONENT_MAPPING_PATH)
+    print(f"Read component key mapping from: {COMPONENT_MAPPING_PATH}")
 
-    dic = readTable(YI_SPELLING_PATH)
-    print(f"Read spelling table file: {YI_SPELLING_PATH}")
+    REPERTOIRE_LIST = read_tab_delimited_file(CHAR_REPERTOIRE_PATH)
+    print(f"Read character repertoire coding table from: {CHAR_REPERTOIRE_PATH}")
 
-    char_rank_map = readCharFreq(CUSTOM_FREQ_PATH)
+    char_order_map = create_character_order_map(CHARACTER_ORDER_PATH)
     
-    if not char_rank_map:
-        print(f"Warning: Custom frequency map is empty from {CUSTOM_FREQ_PATH}. Sorting will be skipped.")
+    if not char_order_map:
+        print(f"Warning: Character order map is empty. Sorting will be skipped.")
     else:
-        default_rank = len(char_rank_map)
+        default_order = len(char_order_map)
+        
+        REPERTOIRE_LIST.sort(key=lambda item: char_order_map.get(item[0], default_order))
+        print(f"Repertoire list sorted by character order based on {CHARACTER_ORDER_PATH}.")
 
-        dic.sort(key=lambda item: char_rank_map.get(item[0], default_rank))
-        print(f"Dictionary sorted by custom rank based on {CUSTOM_FREQ_PATH}.")
-
-
-    fullcode = translatesCode(dic, etymon)
+    generate_full_codes(REPERTOIRE_LIST)
     print("Translated component sequences to full codes.")
 
-    writeFullTable(FULLCODE_TABLE_PATH)
+    write_full_code_table(FULLCODE_TABLE_PATH)
     print("Wrote full code table to " + FULLCODE_TABLE_PATH)
 
-    writeShortTable(SHORTCODE_TABLE_PATH, MAX_SHORTCODE_LENGTH)
+    write_short_code_table(SHORTCODE_TABLE_PATH, MAX_SHORTCODE_LENGTH)
     print("Wrote short code table to " + SHORTCODE_TABLE_PATH)
