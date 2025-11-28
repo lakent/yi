@@ -1,122 +1,125 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import sys
 
 shortcode = []
+fullcode = []
+etymon = []
 
-# query components(be queried)
+
 def fname(arg):
     for x in range(len(etymon)):
         z = etymon[x][0]
         if z == arg:
             return etymon[x][1]
+    return ''
 
-def scode(code, index):
-    # 注意：scode 的逻辑是基于 fullcode 的顺序来生成不重复的简码
-    # 当 fullcode 经过字频排序后，这个函数就能保证高频字的简码长度更短（index 较小）
+def scode(code, index, max_len):
+
     currentCode = code[0:index]
-    if currentCode in shortcode and index <=6:
-        return scode(code,index+1)
+    
+    if currentCode in shortcode and index <= max_len:
+        return scode(code, index + 1, max_len)
+    elif index > max_len:
+        return code 
     else:
         shortcode.append(currentCode)
         return currentCode
 
 def translatesCode(dic, etymon):
+    global fullcode
     fullcode = []
     for item in dic:
-        # item[0] 是字符，item[1] 是拼写组件序列
         s = ''.join([fname(ch) for ch in item[1]])
-        new_item = [item[0], s] # [字符, 完整编码]
+        new_item = [item[0], s]
         fullcode.append(new_item)
     return fullcode
 
 def readTable(path):
     try:
         readContent = []
-        for line in open(path, 'r', encoding='utf-8'):
-            l = line.split('\t')
-            # l -> components, keyboard key
-            # l[1] = l[1][0:-1] # 这一行似乎是旧代码，如果您的文件末尾没有换行符不需要这一行
-            l[1] = l[1].strip() # 使用 strip() 清理末尾的换行符和空格更通用
-            readContent.append([l[0],l[1]])
+        with open(path, 'r', encoding='utf-8') as f:
+            for line in f:
+                l = line.split('\t')
+                if len(l) >= 2 and l[0].strip():
+                    l[1] = l[1].strip()
+                    readContent.append([l[0].strip(), l[1]])
         return readContent
     except Exception as e:
         print(f"Error reading {path}: {e}")
         return []
 
-# 新增函数：读取字频表
 def readCharFreq(path):
-    # 返回一个字典，key是字符，value是频率排名（索引），越小频率越高
     char_rank = {}
     try:
         rank = 0
-        for line in open(path, 'r', encoding='utf-8'):
-            l = line.split('\t') # 使用 \t 分隔
-            if l:
-                character = l[0].strip() # 获取字符
-                if character:
-                    char_rank[character] = rank # rank 越小，频率越高
+        with open(path, 'r', encoding='utf-8') as f:
+            for line in f:
+                l = line.split('\t')
+                if l and l[0].strip():
+                    character = l[0].strip()
+                    char_rank[character] = rank
                     rank += 1
         return char_rank
     except Exception as e:
         print(f"Error reading {path}: {e}")
         return {}
 
-
 def writeFullTable(path):
-    table_file = open(path, "w", encoding='utf-8')
-    for i in fullcode:
-        character = i[0]
-        code = i[1]
-        table_file.write(character+"\t"+ code +"\n")
+    try:
+        with open(path, "w", encoding='utf-8') as table_file:
+            for i in fullcode:
+                character = i[0]
+                code = i[1]
+                table_file.write(f"{character}\t{code}\n")
+    except Exception as e:
+        print(f"Error writing full code table: {e}")
 
-    table_file.close()
+def writeShortTable(path, max_len):
+    try:
+        with open(path, "w", encoding='utf-8') as table_file:
+            for i in fullcode:
+                character = i[0]
+                code = i[1]
+                short_code = scode(code, 2, max_len)
+                table_file.write(f"{character}\t{short_code}\n")
+    except Exception as e:
+        print(f"Error writing short code table: {e}")
 
-
-def writeShortTable(path):
-    table_file = open(path, "w", encoding='utf-8')
-    # 由于 fullcode 已经按字频排序，此处生成的简码将优先分配给高频字
-    for i in fullcode:
-        character = i[0]
-        code = i[1]
-        # 从两位开始检查简码
-        code = scode(code,2)
-        table_file.write(character+"\t"+ code +"\n")
-
-    table_file.close()
 
 if __name__ == '__main__':
-    # 确保 etymon 是全局可用的，或者在函数中作为参数传递
-    # etymon 是 readTable('yi_components_mapping.txt') 的结果
-    # fullcode 是 translatesCode 的结果
     
-    # read components mapping
-    etymon = readTable('yi_components_mapping.txt')
-
-    # read spelling
-    dic = readTable('yi_spelling.txt')
-
-    # ========== 新增部分：读取字频并排序 ==========
-    char_freq_path = 'char_freq.txt'
-    char_rank_map = readCharFreq(char_freq_path)
+    YI_COMPONENTS_MAPPING_PATH = 'yi_components_mapping.txt'
+    YI_SPELLING_PATH = 'yi_spelling.txt'
+    CUSTOM_FREQ_PATH = 'char_freq.txt'
+    FULLCODE_TABLE_PATH = 'yi_fullcode_table.txt'
+    SHORTCODE_TABLE_PATH = 'yi_table.txt'
     
-    # 根据字频对拼写列表进行排序
-    # 排序键：使用 char_rank_map 查找字符的排名。
-    # 如果字符不在字频表中（get不到），则视为最低频率（排在最后）。
-    # 排序后，dic 中的元素顺序变为：高频字在前，低频字在后。
-    dic.sort(key=lambda item: char_rank_map.get(item[0], len(char_rank_map)))
-    print("Dictionary sorted by character frequency.")
-    # ============================================
+    MAX_SHORTCODE_LENGTH = 6
+    
+    etymon = readTable(YI_COMPONENTS_MAPPING_PATH)
+    print(f"Read components mapping file: {YI_COMPONENTS_MAPPING_PATH}")
 
-    # spelling translates code
-    # fullcode 的顺序现在也是按字频排列的
-    fullcode = translatesCode(dic,etymon)
+    dic = readTable(YI_SPELLING_PATH)
+    print(f"Read spelling table file: {YI_SPELLING_PATH}")
 
-    # write codeTable
-    fullCodeTablePath = "yi_fullcode_table_demo.txt" 
-    writeFullTable(fullCodeTablePath)
-    print("write fullcode to " + fullCodeTablePath)
+    char_rank_map = readCharFreq(CUSTOM_FREQ_PATH)
+    
+    if not char_rank_map:
+        print(f"Warning: Custom frequency map is empty from {CUSTOM_FREQ_PATH}. Sorting will be skipped.")
+    else:
+        default_rank = len(char_rank_map)
 
-    # write ShortCodeTable
-    # scode 函数的简码生成现在将基于排序后的 fullcode
-    shortCodeTablePath = "yi_table_demo.txt"
-    writeShortTable(shortCodeTablePath)
-    print("write table to " + shortCodeTablePath)
+        dic.sort(key=lambda item: char_rank_map.get(item[0], default_rank))
+        print(f"Dictionary sorted by custom rank based on {CUSTOM_FREQ_PATH}.")
+
+
+    fullcode = translatesCode(dic, etymon)
+    print("Translated component sequences to full codes.")
+
+    writeFullTable(FULLCODE_TABLE_PATH)
+    print("Wrote full code table to " + FULLCODE_TABLE_PATH)
+
+    writeShortTable(SHORTCODE_TABLE_PATH, MAX_SHORTCODE_LENGTH)
+    print("Wrote short code table to " + SHORTCODE_TABLE_PATH)
